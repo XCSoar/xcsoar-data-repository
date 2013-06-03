@@ -409,3 +409,8 @@ area=it
 name=OpenAIP-Hotspots.cup
 uri=http://www.open-aip.org/public_export/hotspots/world_hot.cup
 type=waypoint
+
+name=Thermal_Spaces_EU.txt
+uri=http://glidinghotspots.eu/data/simple/0002/Thermal_Spaces_EU.txt
+type=airspace
+area=eu
