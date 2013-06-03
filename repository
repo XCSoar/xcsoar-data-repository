@@ -405,3 +405,7 @@ name=Italy.cup
 uri=http://download.xcsoar.org/waypoints/Italy.cup
 type=waypoint
 area=it
+
+name=OpenAIP-Hotspots.cup
+uri=http://www.open-aip.org/public_export/hotspots/world_hot.cup
+type=waypoint
