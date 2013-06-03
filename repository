@@ -363,6 +363,8 @@ uri=http://download.xcsoar.org/maps/US_WA_STATE_HighRes.xcm
 type=map
 area=us
 
+# FlarmNet
+
 name=data.fln
 uri=http://www.flarmnet.org/files/data.fln
 type=flarmnet
@@ -406,9 +408,13 @@ uri=http://download.xcsoar.org/waypoints/Italy.cup
 type=waypoint
 area=it
 
+# OpenAIP (http://www.openaip.net)
+
 name=OpenAIP-Hotspots.cup
 uri=http://www.open-aip.org/public_export/hotspots/world_hot.cup
 type=waypoint
+
+# GlidingHotspots.eu
 
 name=Thermal_Spaces_EU.txt
 uri=http://glidinghotspots.eu/data/simple/0002/Thermal_Spaces_EU.txt
