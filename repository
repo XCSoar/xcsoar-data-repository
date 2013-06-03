@@ -363,6 +363,10 @@ uri=http://download.xcsoar.org/maps/US_WA_STATE_HighRes.xcm
 type=map
 area=us
 
+name=data.fln
+uri=http://www.flarmnet.org/files/data.fln
+type=flarmnet
+
 name=France.cup
 uri=http://download.xcsoar.org/waypoints/France.cup
 type=waypoint
