@@ -439,7 +439,7 @@ type=airspace
 area=dk
 
 name=France_Airspace_2013-05.txt
-http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
+uri=http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
 type=airspace
 area=fr
 
