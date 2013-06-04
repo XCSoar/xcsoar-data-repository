@@ -408,6 +408,16 @@ uri=http://download.xcsoar.org/waypoints/Italy.cup
 type=waypoint
 area=it
 
+name=France_Airspace_2013-05.txt
+http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
+type=airspace
+area=fr
+
+name=Netherlands_Airspace_2013-05.txt
+uri=http://soaringweb.org/Airspace/NL/EHv13_5.txt
+type=airspace
+area=nl
+
 # OpenAIP (http://www.openaip.net)
 
 name=OpenAIP-Hotspots.cup
