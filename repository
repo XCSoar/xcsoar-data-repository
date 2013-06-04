@@ -408,6 +408,16 @@ uri=http://download.xcsoar.org/waypoints/Italy.cup
 type=waypoint
 area=it
 
+name=BelgiumLux_Airspace_Week_2013-04.txt
+uri=http://download.xcsoar.org/airspace/BELLUX_WEEK_130404.txt
+type=airspace
+area=be
+
+name=BelgiumLux_Airspace_Weekend_2013-04.txt
+uri=http://download.xcsoar.org/airspace/BELLUX_WEEKEND_130404.txt
+type=airspace
+area=be
+
 name=France_Airspace_2013-05.txt
 http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
 type=airspace
