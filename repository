@@ -502,8 +502,8 @@ uri=http://soaringweb.org/Airspace/SE/Sverige-2013-WP-rev1.TXT
 type=airspace
 area=se
 
-name=Switzerland_Airspace_2013_03.txt
-uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2013_03_07_R1.txt
+name=Switzerland_Airspace_2014.txt
+uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014.txt
 type=airspace
 area=ch
 
