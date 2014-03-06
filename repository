@@ -438,6 +438,16 @@ uri=http://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-2013-V2.txt
 type=airspace
 area=dk
 
+name=Finland_Airspace_2012_11.txt
+uri=http://www.hansto.fi/seeyou/files/Ilmatila2012.txt
+type=airspace
+area=fi
+
+name=Finland_Airspace_Competitions_2013.txt
+uri=http://www.hansto.fi/seeyou/files/comp_airsp2013.txt
+type=airspace
+area=fi
+
 name=France_Airspace_2013-05.txt
 uri=http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
 type=airspace
