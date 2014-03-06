@@ -443,11 +443,9 @@ uri=http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
 type=airspace
 area=fr
 
-name=Germany_Airspace-2013-11.txt
-uri=http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/Informationen/20131112OpenAir.txt
+name=Germany_Airspace-2014-03-06.txt
+uri=http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/20140306OpenAir.txt
 type=airspace
-size=93475
-md5=248c4938389c666e0e3202b5d07ebe7b
 area=de
 
 name=Germany_ParachutingZones_2013-08.txt
