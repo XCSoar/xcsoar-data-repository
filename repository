@@ -448,8 +448,8 @@ uri=http://www.hansto.fi/seeyou/files/comp_airsp2013.txt
 type=airspace
 area=fi
 
-name=France_Airspace_2013-05.txt
-uri=http://soaringweb.org/Airspace/FR/130512__AIRSPACE_France_1306a.txt
+name=France-Airspace-2014-02-15.txt
+uri=http://soaringweb.org/Airspace/FR/140215__AIRSPACE_France_1402c.txt
 type=airspace
 area=fr
 
