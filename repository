@@ -511,7 +511,7 @@ type=airspace
 area=se
 
 name=Switzerland_Airspace_2014.txt
-uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014.txt
+uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014-03R3.txt
 type=airspace
 area=ch
 
