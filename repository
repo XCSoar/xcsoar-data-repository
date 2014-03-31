@@ -2,372 +2,446 @@ name=AFR_GARIEP_DAM_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AFR_GARIEP_DAM_HighRes.xcm
 type=map
 area=za
+update=2013-02-16
 
 name=AFR_NAMIBIA_CENTRAL_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AFR_NAMIBIA_CENTRAL_HighRes.xcm
 type=map
 area=na
+update=2013-02-16
 
 name=ALPS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ALPS_HighRes.xcm
 type=map
 area=alps
+update=2013-02-16
 
 name=ARG_ANDES_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ARG_ANDES_HighRes.xcm
 type=map
 area=ar
+update=2013-02-16
 
 name=ARG_CENTRO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ARG_CENTRO_HighRes.xcm
 type=map
 area=ar
+update=2013-02-16
 
 name=ARG_NORTE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ARG_NORTE_HighRes.xcm
 type=map
 area=ar
+update=2013-02-16
 
 name=AUS_ADELAIDE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_ADELAIDE_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=AUS_BENALLA_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_BENALLA_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=AUS_NORTHNSW_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_NORTHNSW_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=AUS_NSW_VIC_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_NSW_VIC_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=AUS_QLD_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_QLD_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=AUS_WA_HighRes.xcm
 uri=http://download.xcsoar.org/maps/AUS_WA_HighRes.xcm
 type=map
 area=au
+update=2013-02-16
 
 name=BEN_WGER_HighRes.xcm
 uri=http://download.xcsoar.org/maps/BEN_WGER_HighRes.xcm
 type=map
 area=benelux
+update=2013-02-16
 
 name=BRA_CENTRO_OESTE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/BRA_CENTRO_OESTE_HighRes.xcm
 type=map
 area=br
+update=2013-02-16
 
 name=BRA_SOUTH_HighRes.xcm
 uri=http://download.xcsoar.org/maps/BRA_SOUTH_HighRes.xcm
 type=map
 area=br
+update=2013-02-16
 
 name=BRA_SUDESTE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/BRA_SUDESTE_HighRes.xcm
 type=map
 area=br
+update=2013-02-16
 
 name=CAN_ONTARIO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CAN_ONTARIO_HighRes.xcm
 type=map
 area=ca
+update=2013-02-16
 
 name=CAN_QUEBEC_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CAN_QUEBEC_S_HighRes.xcm
 type=map
 area=ca
+update=2013-02-16
 
 name=CAN_SE_BC_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CAN_SE_BC_HighRes.xcm
 type=map
 area=ca
+update=2013-02-16
 
 name=CAN_SE_ONTARIO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CAN_SE_ONTARIO_HighRes.xcm
 type=map
 area=ca
+update=2013-02-16
 
 name=CAN_SW_ONTARIO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CAN_SW_ONTARIO_HighRes.xcm
 type=map
 area=ca
+update=2013-02-16
 
 name=CL_CHILE_CENTRO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CL_CHILE_CENTRO_HighRes.xcm
 type=map
 area=cl
+update=2013-02-16
 
 name=COLOMBIA_HighRes.xcm
 uri=http://download.xcsoar.org/maps/COLOMBIA_HighRes.xcm
 type=map
 area=co
+update=2013-02-16
 
 name=CZ_SK_HighRes.xcm
 uri=http://download.xcsoar.org/maps/CZ_SK_HighRes.xcm
 type=map
 area=cz_sk
+update=2013-02-16
 
 name=ESP_BALEAR_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ESP_BALEAR_HighRes.xcm
 type=map
 area=es
+update=2013-02-16
 
 name=ESP_C_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ESP_C_HighRes.xcm
 type=map
 area=es
+update=2013-02-16
 
 name=ESP_N_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ESP_N_HighRes.xcm
 type=map
 area=es
+update=2013-02-16
 
 name=ESP_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ESP_S_HighRes.xcm
 type=map
 area=es
+update=2013-02-16
 
 name=FIN_HighRes.xcm
 uri=http://download.xcsoar.org/maps/FIN_HighRes.xcm
 type=map
 area=fi
+update=2013-02-16
 
 name=FRA_ALPS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/FRA_ALPS_HighRes.xcm
 type=map
 area=fr
+update=2013-02-16
 
 name=FRA_CORSE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/FRA_CORSE_HighRes.xcm
 type=map
 area=fr
+update=2013-02-16
 
 name=FRA_FULL_HighRes.xcm
 uri=http://download.xcsoar.org/maps/FRA_FULL_HighRes.xcm
 type=map
 area=fr
+update=2013-02-16
 
 name=FRA_SW_HighRes.xcm
 uri=http://download.xcsoar.org/maps/FRA_SW_HighRes.xcm
 type=map
 area=fr
+update=2013-02-16
 
 name=GER_HighRes.xcm
 uri=http://download.xcsoar.org/maps/GER_HighRes.xcm
 type=map
 area=de
+update=2013-02-16
 
 name=HUN_HighRes.xcm
 uri=http://download.xcsoar.org/maps/HUN_HighRes.xcm
 type=map
 area=hu
+update=2013-02-16
 
 name=IRE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/IRE_HighRes.xcm
 type=map
 area=ie
+update=2013-02-16
 
 name=ISR_ISRAEL_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ISR_ISRAEL_HighRes.xcm
 type=map
 area=il
+update=2013-02-16
 
 name=ITA_APENN_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ITA_APENN_HighRes.xcm
 type=map
 area=it
+update=2013-02-16
 
 name=ITA_SARD_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ITA_SARD_HighRes.xcm
 type=map
 area=it
+update=2013-02-16
 
 name=ITA_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/ITA_S_HighRes.xcm
 type=map
 area=it
+update=2013-02-16
 
 name=JP_HOK_HighRes.xcm
 uri=http://download.xcsoar.org/maps/JP_HOK_HighRes.xcm
 type=map
 area=jp
+update=2013-02-16
 
 name=MEX_CENTER_HighRes.xcm
 uri=http://download.xcsoar.org/maps/MEX_CENTER_HighRes.xcm
 type=map
 area=mx
+update=2013-02-16
 
 name=NOR_N_HighRes.xcm
 uri=http://download.xcsoar.org/maps/NOR_N_HighRes.xcm
 type=map
 area=no
+update=2013-02-16
 
 name=NOR_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/NOR_S_HighRes.xcm
 type=map
 area=no
+update=2013-02-16
 
 name=NZL_BOTHISLANDS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/NZL_BOTHISLANDS_HighRes.xcm
 type=map
 area=nz
+update=2013-02-16
 
 name=NZL_SOUTHISLAND_HighRes.xcm
 uri=http://download.xcsoar.org/maps/NZL_SOUTHISLAND_HighRes.xcm
 type=map
 area=nz
+update=2013-02-16
 
 name=POL_HighRes.xcm
 uri=http://download.xcsoar.org/maps/POL_HighRes.xcm
 type=map
 area=pl
+update=2013-02-16
 
 name=POR_HighRes.xcm
 uri=http://download.xcsoar.org/maps/POR_HighRes.xcm
 type=map
 area=pt
+update=2013-02-16
 
 name=SWE_C_HighRes.xcm
 uri=http://download.xcsoar.org/maps/SWE_C_HighRes.xcm
 type=map
 area=se
+update=2013-02-16
 
 name=SWE_N_HighRes.xcm
 uri=http://download.xcsoar.org/maps/SWE_N_HighRes.xcm
 type=map
 area=se
+update=2013-02-16
 
 name=SWE_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/SWE_S_HighRes.xcm
 type=map
 area=se
+update=2013-02-16
 
 name=UK_HighRes.xcm
 uri=http://download.xcsoar.org/maps/UK_HighRes.xcm
 type=map
 area=uk
+update=2013-02-16
 
 name=US_AZ_PLUS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_AZ_PLUS_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_CALIFORN_S_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_CALIFORN_S_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_CA_TRUCKEE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_CA_TRUCKEE_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_COLORADO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_COLORADO_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_FL_CENTRAL_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_FL_CENTRAL_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_HI_OAHU_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_HI_OAHU_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_HOBBS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_HOBBS_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_ID_LOST_RIVER_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_ID_LOST_RIVER_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_ID_SOUTHWEST_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_ID_SOUTHWEST_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_ILLINOIS_NO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_ILLINOIS_NO_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_ILLINOIS_SO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_ILLINOIS_SO_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_INDIANA_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_INDIANA_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_MICHIGAN_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_MICHIGAN_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_NEWENGLAND_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_NEWENGLAND_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_NEWMEXICO_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_NEWMEXICO_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_NORTHEAST_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_NORTHEAST_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_OK_HINTON_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_OK_HINTON_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_OR_STATE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_OR_STATE_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_TEXAS_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_TEXAS_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_UTAH_R9N_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_UTAH_R9N_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 name=US_WA_STATE_HighRes.xcm
 uri=http://download.xcsoar.org/maps/US_WA_STATE_HighRes.xcm
 type=map
 area=us
+update=2013-02-16
 
 # FlarmNet
 
 name=data.fln
 uri=http://www.flarmnet.org/files/data.fln
 type=flarmnet
+update=daily
 
 # Waypoints
 
@@ -375,161 +449,190 @@ name=France.cup
 uri=http://download.xcsoar.org/waypoints/France.cup
 type=waypoint
 area=fr
+update=2013-02-17
 
 name=Germany.cup
 uri=http://download.xcsoar.org/waypoints/Germany.cup
 type=waypoint
 area=de
+update=2013-02-17
 
 name=Netherlands.cup
 uri=http://download.xcsoar.org/waypoints/Netherlands.cup
 type=waypoint
 area=nl
+update=2013-02-17
 
 name=Poland.cup
 uri=http://download.xcsoar.org/waypoints/Poland.cup
 type=waypoint
 area=pl
+update=2013-02-17
 
 name=Italy.cup
 uri=http://download.xcsoar.org/waypoints/Italy.cup
 type=waypoint
 area=it
+update=2013-02-17
 
 # Airspace
 
-name=Australia_Airspace_2008-03.txt
+name=Australia_Airspace.txt
 uri=http://soaringweb.org/Airspace/AU/australia.txt
 type=airspace
 area=au
+update=2008-03-06
 
-name=Austria_Airspace_2013_04.txt
+name=Austria_Airspace.txt
 uri=http://www.austrocontrol.at/jart/prj3/austro_control/data/uploads/austria_ATS_2011_openair.txt
 type=airspace
 area=at
+update=2011-04-01
 
-name=BelgiumLux_Airspace_Week_2013-04.txt
+name=BelgiumLux_Airspace_Week.txt
 uri=http://download.xcsoar.org/airspace/BELLUX_WEEK_130404.txt
 type=airspace
 area=be
+update=2013-04-04
 
-name=BelgiumLux_Airspace_Weekend_2013-04.txt
+name=BelgiumLux_Airspace_Weekend.txt
 uri=http://download.xcsoar.org/airspace/BELLUX_WEEKEND_130404.txt
 type=airspace
 area=be
+update=2013-04-04
 
 name=Canada_Airspace.txt
 uri=http://soaringweb.org/Airspace/NA/canadian_airspace241.air
 type=airspace
 area=ca
+update=2014-03-03
 
-name=Croatia_Airspace_2013_05.txt
+name=Croatia_Airspace.txt
 uri=http://soaringweb.org/Airspace/HR/HRV-2012.txt
 type=airspace
 area=hr
+update=2013-05-08
 
 name=Czech_Airspace.txt
 uri=http://soaringweb.org/Airspace/CZ/Cz2014.txt
 type=airspace
 area=cz
+update=2014-03-01
 
-name=Denmark_Airspace_2013_03.txt
+name=Denmark_Airspace.txt
 uri=http://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-2013-V2.txt
 type=airspace
 area=dk
+update=2013-03-17
 
-name=Finland_Airspace_2012_11.txt
+name=Finland_Airspace.txt
 uri=http://www.hansto.fi/seeyou/files/Ilmatila2012.txt
 type=airspace
 area=fi
+update=2012-01-01
 
-name=Finland_Airspace_Competitions_2013.txt
+name=Finland_Airspace_Competitions.txt
 uri=http://www.hansto.fi/seeyou/files/comp_airsp2013.txt
 type=airspace
 area=fi
+update=2013-01-01
 
-name=France-Airspace-2014-02-15.txt
+name=France-Airspace.txt
 uri=http://soaringweb.org/Airspace/FR/140215__AIRSPACE_France_1402c.txt
 type=airspace
 area=fr
+update=2014-02-15
 
-name=Germany_Airspace-2014-03-06.txt
+name=Germany_Airspace.txt
 uri=http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/20140306OpenAir.txt
 type=airspace
 area=de
+update=2014-03-06
 
-name=Germany_ParachutingZones_2013-08.txt
+name=Germany_ParachutingZones.txt
 uri=http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/2013_August_Sprungzonen.txt
 type=airspace
-size=10154
-md5=aa77e44b8fef47035ec7f8466c0eca79
 area=de
+update=2013-08-08
 
-name=Hungary_Airspace_2012.txt
+name=Hungary_Airspace.txt
 uri=http://soaringweb.org/Airspace/HU/Hungary_2012.txt
 type=airspace
 area=hu
+update=2010-05-06
 
-name=Latvia_Airspace_2012_05.txt
+name=Latvia_Airspace.txt
 uri=http://soaringweb.org/Airspace/LV/LV.txt
 type=airspace
 area=lv
+update=2012-05-11
 
-name=Lithuania_Airspace_2012_05.txt
+name=Lithuania_Airspace.txt
 uri=http://soaringweb.org/Airspace/LT/LT_2012.txt
 type=airspace
 area=lt
+update=2012-05-29
 
-name=Netherlands_Airspace_2013-05.txt
+name=Netherlands_Airspace.txt
 uri=http://soaringweb.org/Airspace/NL/EHv13_5.txt
 type=airspace
 area=nl
+update=2013-05-02
 
-name=New_Zealand_Airspace_2007-12.txt
+name=New_Zealand_Airspace.txt
 uri=http://soaringweb.org/Airspace/NZ/NZ.txt
 type=airspace
 area=nz
+update=2007-11-27
 
 name=Poland_Airspace.txt
 uri=http://soaringweb.org/Airspace/PL/06_MAR_2014_Polska.txt
 type=airspace
 area=po
+update=2014-03-06
 
-name=Slovakia_Airspace_2011_12.txt
+name=Slovakia_Airspace.txt
 uri=http://soaringweb.org/Airspace/SK/SK2012.txt
 type=airspace
 area=sk
+update=2011-12-15
 
-name=Spain_Airspace_2013_05.txt
+name=Spain_Airspace.txt
 uri=http://soaringweb.org/Airspace/ES/SUASpain201305.txt
 type=airspace
 area=es
+update=2013-05-19
 
-name=Sweden_Airspace_2013_03.txt
+name=Sweden_Airspace.txt
 uri=http://soaringweb.org/Airspace/SE/Sverige-2013-WP-rev1.TXT
 type=airspace
 area=se
+update=2013-03-01
 
-name=Switzerland_Airspace_2014.txt
+name=Switzerland_Airspace.txt
 uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014-03R3.txt
 type=airspace
 area=ch
+update=2014-03-05
 
 name=UK_Airspace.txt
 uri=http://soaringweb.org/Airspace/UK/WPLTAS141113.txt
 type=airspace
 area=uk
+update=2013-10-20
 
 name=USA_Airspace_2013_05.txt
 uri=http://soaringweb.org/Airspace/NA/allusa.v13.05-02.2.txt
 type=airspace
 area=us
+update=2014-01-17
 
 # OpenAIP (http://www.openaip.net)
 
 name=OpenAIP-Hotspots.cup
 uri=http://www.open-aip.org/public_export/hotspots/world_hot.cup
 type=waypoint
+update=monthly
 
 # GlidingHotspots.eu
 
