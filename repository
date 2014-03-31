@@ -418,8 +418,8 @@ uri=http://download.xcsoar.org/airspace/BELLUX_WEEKEND_130404.txt
 type=airspace
 area=be
 
-name=Canada_Airspace_2012-04.txt
-uri=http://soaringweb.org/Airspace/NA/CA_2012_05a_frc.txt
+name=Canada_Airspace.txt
+uri=http://soaringweb.org/Airspace/NA/canadian_airspace241.air
 type=airspace
 area=ca
 
