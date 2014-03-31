@@ -515,8 +515,8 @@ uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014-03R3.txt
 type=airspace
 area=ch
 
-name=UK_Airspace_2013_07.txt
-uri=http://soaringweb.org/Airspace/UK/WPLTAS250713.txt
+name=UK_Airspace.txt
+uri=http://soaringweb.org/Airspace/UK/WPLTAS141113.txt
 type=airspace
 area=uk
 
