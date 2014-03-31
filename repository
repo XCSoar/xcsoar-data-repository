@@ -428,8 +428,8 @@ uri=http://soaringweb.org/Airspace/HR/HRV-2012.txt
 type=airspace
 area=hr
 
-name=Czech_Airspace_2013_03.txt
-uri=http://soaringweb.org/Airspace/CZ/CZ_2013.txt
+name=Czech_Airspace.txt
+uri=http://soaringweb.org/Airspace/CZ/Cz2014.txt
 type=airspace
 area=cz
 
