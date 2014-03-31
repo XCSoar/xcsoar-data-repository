@@ -490,8 +490,8 @@ uri=http://soaringweb.org/Airspace/NZ/NZ.txt
 type=airspace
 area=nz
 
-name=Poland_Airspace_2013_05.txt
-uri=http://soaringweb.org/Airspace/PL/30_MAY_2013_Polska.txt
+name=Poland_Airspace.txt
+uri=http://soaringweb.org/Airspace/PL/06_MAR_2014_Polska.txt
 type=airspace
 area=po
 
