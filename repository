@@ -574,10 +574,10 @@ area=lt
 update=2012-05-29
 
 name=Netherlands_Airspace.txt
-uri=http://soaringweb.org/Airspace/NL/EHv13_5.txt
+uri=http://www.gliderpilotshop.nl/documents/EHv14_4.txt
 type=airspace
 area=nl
-update=2013-05-02
+update=2014-04-08
 
 name=New_Zealand_Airspace.txt
 uri=http://soaringweb.org/Airspace/NZ/NZ.txt
