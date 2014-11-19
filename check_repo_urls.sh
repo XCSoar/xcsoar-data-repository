@@ -17,7 +17,7 @@ if [ -z "$1" ]; then
 	exit 1 
 fi
 
-TMPDIR=`mktemp -d fXXXXXXXX` 
+TMPDIR=`mktemp -d` 
 
 grep uri "${1}" | cut -f2 -d= > ${TMPDIR}/url_list.txt
 
