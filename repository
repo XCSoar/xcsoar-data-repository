@@ -615,11 +615,11 @@ type=airspace
 area=uk
 update=2014-12-11
 
-name=USA_Airspace_2013_05.txt
-uri=http://soaringweb.org/Airspace/NA/allusa.v13.05-02.2.txt
+name=USA_Airspace.txt
+uri=http://soaringweb.org/Airspace/NA/allusa.v14.11-13.1.txt
 type=airspace
 area=us
-update=2014-01-17
+update=2014-11-13
 
 # OpenAIP (http://www.openaip.net)
 
