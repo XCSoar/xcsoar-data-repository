@@ -1,0 +1,18 @@
+{
+  "name": "xcsoar-data-repository",
+  "homepage": "https://github.com/XCSoar/xcsoar-data-repository",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XCSoar/xcsoar-data-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XCSoar/xcsoar-data-repository/issues"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "request": "^2.51.0"
+  }
+}
