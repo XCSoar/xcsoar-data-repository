@@ -610,10 +610,10 @@ area=ch
 update=2014-03-05
 
 name=UK_Airspace.txt
-uri=http://soaringweb.org/Airspace/UK/WPLTAS141113.txt
+uri=http://soaringweb.org/Airspace/UK/WPLTAS180714.txt
 type=airspace
 area=uk
-update=2013-10-20
+update=2014-12-11
 
 name=USA_Airspace_2013_05.txt
 uri=http://soaringweb.org/Airspace/NA/allusa.v13.05-02.2.txt
