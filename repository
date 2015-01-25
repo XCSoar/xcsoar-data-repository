@@ -592,10 +592,10 @@ area=sk
 update=2011-12-15
 
 name=Spain_Airspace.txt
-uri=http://soaringweb.org/Airspace/ES/SUASpain201305.txt
+uri=http://soaringweb.org/Airspace/ES/SUASpain201411a.txt
 type=airspace
 area=es
-update=2013-05-19
+update=2014-12-13
 
 name=Sweden_Airspace.txt
 uri=http://soaringweb.org/Airspace/SE/Sverige-2013-WP-rev1.TXT
