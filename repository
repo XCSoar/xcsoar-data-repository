@@ -531,12 +531,6 @@ type=airspace
 area=fi
 update=2012-01-01
 
-name=Finland_Airspace_Competitions.txt
-uri=http://www.hansto.fi/seeyou/files/comp_airsp2013.txt
-type=airspace
-area=fi
-update=2013-01-01
-
 name=France-Airspace.txt
 uri=http://soaringweb.org/Airspace/FR/140708__AIRSPACE_France_1405e.txt
 type=airspace
