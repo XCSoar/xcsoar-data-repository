@@ -598,10 +598,10 @@ area=es
 update=2014-12-13
 
 name=Sweden_Airspace.txt
-uri=http://soaringweb.org/Airspace/SE/Sverige-2013-WP-rev1.TXT
+uri=http://soaringweb.org/Airspace/SE/Sverige-2014-WP-rev0.TXT
 type=airspace
 area=se
-update=2013-03-01
+update=2014-06-17
 
 name=Switzerland_Airspace.txt
 uri=http://soaringweb.org/Airspace/CH/CH-Luftraum_2014-03R3.txt
