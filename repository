@@ -580,10 +580,10 @@ area=nz
 update=2007-11-27
 
 name=Poland_Airspace.txt
-uri=http://soaringweb.org/Airspace/PL/06_MAR_2014_Polska.txt
+uri=http://soaringweb.org/Airspace/PL/08_JAN_2015_Polska.txt
 type=airspace
 area=po
-update=2014-03-06
+update=2015-01-08
 
 name=Slovakia_Airspace.txt
 uri=http://soaringweb.org/Airspace/SK/SK2012.txt
