@@ -556,10 +556,10 @@ area=hu
 update=2010-05-06
 
 name=Latvia_Airspace.txt
-uri=http://soaringweb.org/Airspace/LV/LV.txt
+uri=http://soaringweb.org/Airspace/LV/lv_2014_05_04.txt
 type=airspace
 area=lv
-update=2012-05-11
+update=2014-05-04
 
 name=Lithuania_Airspace.txt
 uri=http://soaringweb.org/Airspace/LT/LT_2012.txt
