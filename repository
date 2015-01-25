@@ -502,10 +502,10 @@ area=be
 update=2013-04-04
 
 name=Canada_Airspace.txt
-uri=http://soaringweb.org/Airspace/NA/canadian_airspace241.air
+uri=http://soaringweb.org/Airspace/NA/canadian_airspace_243b.air
 type=airspace
 area=ca
-update=2014-03-03
+update=2014-05-29
 
 name=Croatia_Airspace.txt
 uri=http://soaringweb.org/Airspace/HR/HRV-2012.txt
