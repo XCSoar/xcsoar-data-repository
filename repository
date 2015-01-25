@@ -520,10 +520,10 @@ area=cz
 update=2014-03-01
 
 name=Denmark_Airspace.txt
-uri=http://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-2013-V2.txt
+uri=http://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20140619.txt
 type=airspace
 area=dk
-update=2013-03-17
+update=2014-06-19
 
 name=Finland_Airspace.txt
 uri=http://www.hansto.fi/seeyou/files/Ilmatila2012.txt
