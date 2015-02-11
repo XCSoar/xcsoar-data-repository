@@ -501,6 +501,12 @@ type=airspace
 area=be
 update=2013-04-04
 
+name=Bulgaria_Airspace.txt
+uri=http://pg.v5d.org/airspace/bg_airspace_latest.txt
+type=airspace
+area=bg
+update=daily
+
 name=Canada_Airspace.txt
 uri=http://soaringweb.org/Airspace/NA/canadian_airspace_243b.air
 type=airspace
