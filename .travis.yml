@@ -1,3 +1,12 @@
 language: node_js
 
 sudo: false
+
+env:
+    secure: 'KdqxlcDenBxVTcLI721wyqYq8VeLrD1Jw8BiyphT/ikxTyO35lU+M9ETvUv5U+UvVQo6PABJK/RG+pKb1XuAv9Wa3D5MX1p5rPg9tilWCxiv0cITs3D3f8Opu+DYdZ47OQpvHdiktMunquN/X4pBKW81PjyQmY3NKuResR03ANU='
+
+after_success:
+    - test $TRAVIS_PULL_REQUEST == 'false' &&
+      test $TRAVIS_BRANCH == 'master' &&
+      test $FTP_CREDENTIALS &&
+      curl -T repository -u $FTP_CREDENTIALS --disable-epsv ftp://download.xcsoar.org/
