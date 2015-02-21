@@ -538,10 +538,10 @@ area=fi
 update=2012-01-01
 
 name=France-Airspace.txt
-uri=http://soaringweb.org/Airspace/FR/140708__AIRSPACE_France_1405e.txt
+uri=http://s289271336.onlinehome.fr/dossiers_ffvv/files/150120__AIRSPACE_France_1501b.txt
 type=airspace
 area=fr
-update=2014-05-01
+update=2015-01-20
 
 name=Germany_Airspace.txt
 uri=http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/20150101OpenAir.txt
