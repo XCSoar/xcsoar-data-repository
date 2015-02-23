@@ -490,16 +490,16 @@ area=at
 update=2011-04-01
 
 name=BelgiumLux_Airspace_Week.txt
-uri=http://download.xcsoar.org/airspace/BELLUX_WEEK_130404.txt
+uri=http://soaringweb.org/Airspace/BE/BELLUX_WEEK_140501.txt
 type=airspace
 area=be
-update=2013-04-04
+update=2014-05-01
 
 name=BelgiumLux_Airspace_Weekend.txt
-uri=http://download.xcsoar.org/airspace/BELLUX_WEEKEND_130404.txt
+uri=http://soaringweb.org/Airspace/BE/bellux_weekend_14_base_rev2.txt
 type=airspace
 area=be
-update=2013-04-04
+update=2014-05-01
 
 name=Bulgaria_Airspace.txt
 uri=http://pg.v5d.org/airspace/bg_airspace_latest.txt
