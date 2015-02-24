@@ -9,7 +9,7 @@
     "url": "https://github.com/XCSoar/xcsoar-data-repository/issues"
   },
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha -s 1000"
+    "test": "mocha -s 1000"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
