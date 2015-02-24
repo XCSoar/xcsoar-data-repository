@@ -1,0 +1,516 @@
+{
+  "title": "Maps",
+  "records": [
+    {
+      "name": "AFR_GARIEP_DAM_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AFR_GARIEP_DAM_HighRes.xcm",
+      "type": "map",
+      "area": "za",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AFR_NAMIBIA_CENTRAL_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AFR_NAMIBIA_CENTRAL_HighRes.xcm",
+      "type": "map",
+      "area": "na",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ALPS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ALPS_HighRes.xcm",
+      "type": "map",
+      "area": "alps",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ARG_ANDES_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ARG_ANDES_HighRes.xcm",
+      "type": "map",
+      "area": "ar",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ARG_CENTRO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ARG_CENTRO_HighRes.xcm",
+      "type": "map",
+      "area": "ar",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ARG_NORTE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ARG_NORTE_HighRes.xcm",
+      "type": "map",
+      "area": "ar",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_ADELAIDE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_ADELAIDE_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_BENALLA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_BENALLA_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_NORTHNSW_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_NORTHNSW_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_NSW_VIC_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_NSW_VIC_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_QLD_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_QLD_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "AUS_WA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/AUS_WA_HighRes.xcm",
+      "type": "map",
+      "area": "au",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "BEN_WGER_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/BEN_WGER_HighRes.xcm",
+      "type": "map",
+      "area": "benelux",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "BRA_CENTRO_OESTE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/BRA_CENTRO_OESTE_HighRes.xcm",
+      "type": "map",
+      "area": "br",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "BRA_SOUTH_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/BRA_SOUTH_HighRes.xcm",
+      "type": "map",
+      "area": "br",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "BRA_SUDESTE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/BRA_SUDESTE_HighRes.xcm",
+      "type": "map",
+      "area": "br",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CAN_ONTARIO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_ONTARIO_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CAN_QUEBEC_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_QUEBEC_S_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CAN_SE_BC_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_SE_BC_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CAN_SE_ONTARIO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_SE_ONTARIO_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CAN_SW_ONTARIO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_SW_ONTARIO_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CL_CHILE_CENTRO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CL_CHILE_CENTRO_HighRes.xcm",
+      "type": "map",
+      "area": "cl",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "COLOMBIA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/COLOMBIA_HighRes.xcm",
+      "type": "map",
+      "area": "co",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "CZ_SK_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CZ_SK_HighRes.xcm",
+      "type": "map",
+      "area": "cz_sk",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ESP_BALEAR_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ESP_BALEAR_HighRes.xcm",
+      "type": "map",
+      "area": "es",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ESP_C_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ESP_C_HighRes.xcm",
+      "type": "map",
+      "area": "es",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ESP_N_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ESP_N_HighRes.xcm",
+      "type": "map",
+      "area": "es",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ESP_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ESP_S_HighRes.xcm",
+      "type": "map",
+      "area": "es",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "FIN_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/FIN_HighRes.xcm",
+      "type": "map",
+      "area": "fi",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "FRA_ALPS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/FRA_ALPS_HighRes.xcm",
+      "type": "map",
+      "area": "fr",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "FRA_CORSE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/FRA_CORSE_HighRes.xcm",
+      "type": "map",
+      "area": "fr",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "FRA_FULL_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/FRA_FULL_HighRes.xcm",
+      "type": "map",
+      "area": "fr",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "FRA_SW_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/FRA_SW_HighRes.xcm",
+      "type": "map",
+      "area": "fr",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "GER_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/GER_HighRes.xcm",
+      "type": "map",
+      "area": "de",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "HUN_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/HUN_HighRes.xcm",
+      "type": "map",
+      "area": "hu",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "IRE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/IRE_HighRes.xcm",
+      "type": "map",
+      "area": "ie",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ISR_ISRAEL_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ISR_ISRAEL_HighRes.xcm",
+      "type": "map",
+      "area": "il",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ITA_APENN_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ITA_APENN_HighRes.xcm",
+      "type": "map",
+      "area": "it",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ITA_SARD_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ITA_SARD_HighRes.xcm",
+      "type": "map",
+      "area": "it",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "ITA_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ITA_S_HighRes.xcm",
+      "type": "map",
+      "area": "it",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "JP_HOK_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/JP_HOK_HighRes.xcm",
+      "type": "map",
+      "area": "jp",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "MEX_CENTER_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/MEX_CENTER_HighRes.xcm",
+      "type": "map",
+      "area": "mx",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "NOR_N_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/NOR_N_HighRes.xcm",
+      "type": "map",
+      "area": "no",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "NOR_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/NOR_S_HighRes.xcm",
+      "type": "map",
+      "area": "no",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "NZL_BOTHISLANDS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/NZL_BOTHISLANDS_HighRes.xcm",
+      "type": "map",
+      "area": "nz",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "NZL_SOUTHISLAND_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/NZL_SOUTHISLAND_HighRes.xcm",
+      "type": "map",
+      "area": "nz",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "POL_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/POL_HighRes.xcm",
+      "type": "map",
+      "area": "pl",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "POR_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/POR_HighRes.xcm",
+      "type": "map",
+      "area": "pt",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "SWE_C_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/SWE_C_HighRes.xcm",
+      "type": "map",
+      "area": "se",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "SWE_N_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/SWE_N_HighRes.xcm",
+      "type": "map",
+      "area": "se",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "SWE_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/SWE_S_HighRes.xcm",
+      "type": "map",
+      "area": "se",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "UK_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/UK_HighRes.xcm",
+      "type": "map",
+      "area": "uk",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_AZ_PLUS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_AZ_PLUS_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_CALIFORN_S_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_CALIFORN_S_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_CA_TRUCKEE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_CA_TRUCKEE_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_COLORADO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_COLORADO_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_FL_CENTRAL_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_FL_CENTRAL_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_HI_OAHU_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_HI_OAHU_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_HOBBS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_HOBBS_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_ID_LOST_RIVER_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_ID_LOST_RIVER_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_ID_SOUTHWEST_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_ID_SOUTHWEST_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_ILLINOIS_NO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_ILLINOIS_NO_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_ILLINOIS_SO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_ILLINOIS_SO_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_INDIANA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_INDIANA_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_MICHIGAN_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_MICHIGAN_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_NEWENGLAND_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_NEWENGLAND_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_NEWMEXICO_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_NEWMEXICO_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_NORTHEAST_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_NORTHEAST_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_OK_HINTON_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_OK_HINTON_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_OR_STATE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_OR_STATE_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_TEXAS_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_TEXAS_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_UTAH_R9N_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_UTAH_R9N_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    },
+    {
+      "name": "US_WA_STATE_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/US_WA_STATE_HighRes.xcm",
+      "type": "map",
+      "area": "us",
+      "update": "2013-02-16"
+    }
+  ]
+}

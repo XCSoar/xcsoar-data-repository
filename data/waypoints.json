@@ -1,0 +1,40 @@
+{
+  "title": "Waypoints",
+  "records": [
+    {
+      "name": "France.cup",
+      "uri": "http://download.xcsoar.org/waypoints/France.cup",
+      "type": "waypoint",
+      "area": "fr",
+      "update": "2013-02-17"
+    },
+    {
+      "name": "Germany.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Germany.cup",
+      "type": "waypoint",
+      "area": "de",
+      "update": "2013-02-17"
+    },
+    {
+      "name": "Netherlands.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Netherlands.cup",
+      "type": "waypoint",
+      "area": "nl",
+      "update": "2013-02-17"
+    },
+    {
+      "name": "Poland.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Poland.cup",
+      "type": "waypoint",
+      "area": "pl",
+      "update": "2013-02-17"
+    },
+    {
+      "name": "Italy.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Italy.cup",
+      "type": "waypoint",
+      "area": "it",
+      "update": "2013-02-17"
+    }
+  ]
+}
