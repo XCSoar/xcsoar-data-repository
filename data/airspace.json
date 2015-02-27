@@ -1,0 +1,180 @@
+{
+  "title": "Airspace",
+  "records": [
+    {
+      "name": "Australia_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/AU/australia.txt",
+      "type": "airspace",
+      "area": "au",
+      "update": "2008-03-06"
+    },
+    {
+      "name": "Austria_Airspace.txt",
+      "uri": "http://www.austrocontrol.at/jart/prj3/austro_control/data/uploads/austria_ATS_2011_openair.txt",
+      "type": "airspace",
+      "area": "at",
+      "update": "2011-04-01"
+    },
+    {
+      "name": "BelgiumLux_Airspace_Week.txt",
+      "uri": "http://soaringweb.org/Airspace/BE/BELLUX_WEEK_140501.txt",
+      "type": "airspace",
+      "area": "be",
+      "update": "2014-05-01"
+    },
+    {
+      "name": "BelgiumLux_Airspace_Weekend.txt",
+      "uri": "http://soaringweb.org/Airspace/BE/bellux_weekend_14_base_rev2.txt",
+      "type": "airspace",
+      "area": "be",
+      "update": "2014-05-01"
+    },
+    {
+      "name": "Bulgaria_Airspace.txt",
+      "uri": "http://pg.v5d.org/airspace/bg_airspace_latest.txt",
+      "type": "airspace",
+      "area": "bg",
+      "update": "daily"
+    },
+    {
+      "name": "Canada_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/NA/canadian_airspace_243b.air",
+      "type": "airspace",
+      "area": "ca",
+      "update": "2014-05-29"
+    },
+    {
+      "name": "Croatia_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/HR/HRV-2012.txt",
+      "type": "airspace",
+      "area": "hr",
+      "update": "2013-05-08"
+    },
+    {
+      "name": "Czech_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/CZ/Cz2014.txt",
+      "type": "airspace",
+      "area": "cz",
+      "update": "2014-03-01"
+    },
+    {
+      "name": "Denmark_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20140619.txt",
+      "type": "airspace",
+      "area": "dk",
+      "update": "2014-06-19"
+    },
+    {
+      "name": "Finland_Airspace.txt",
+      "uri": "http://www.hansto.fi/seeyou/files/Ilmatila2012.txt",
+      "type": "airspace",
+      "area": "fi",
+      "update": "2012-01-01"
+    },
+    {
+      "name": "France-Airspace.txt",
+      "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/150120__AIRSPACE_France_1501b.txt",
+      "type": "airspace",
+      "area": "fr",
+      "update": "2015-01-20"
+    },
+    {
+      "name": "Germany_Airspace.txt",
+      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/20150101OpenAir.txt",
+      "type": "airspace",
+      "area": "de",
+      "update": "2015-01-01"
+    },
+    {
+      "name": "Germany_ParachutingZones.txt",
+      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/2013_August_Sprungzonen.txt",
+      "type": "airspace",
+      "area": "de",
+      "update": "2013-08-08"
+    },
+    {
+      "name": "Hungary_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/HU/Hungary_2012.txt",
+      "type": "airspace",
+      "area": "hu",
+      "update": "2010-05-06"
+    },
+    {
+      "name": "Latvia_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/LV/lv_2014_05_04.txt",
+      "type": "airspace",
+      "area": "lv",
+      "update": "2014-05-04"
+    },
+    {
+      "name": "Lithuania_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/LT/LT_2012.txt",
+      "type": "airspace",
+      "area": "lt",
+      "update": "2012-05-29"
+    },
+    {
+      "name": "Netherlands_Airspace.txt",
+      "uri": "http://home.planet.nl/~dortu001/Databases/EHv14_5.txt",
+      "type": "airspace",
+      "area": "nl",
+      "update": "2014-05-01"
+    },
+    {
+      "name": "New_Zealand_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/NZ/NZ.txt",
+      "type": "airspace",
+      "area": "nz",
+      "update": "2007-11-27"
+    },
+    {
+      "name": "Poland_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/PL/08_JAN_2015_Polska.txt",
+      "type": "airspace",
+      "area": "po",
+      "update": "2015-01-08"
+    },
+    {
+      "name": "Slovakia_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/SK/SK2012.txt",
+      "type": "airspace",
+      "area": "sk",
+      "update": "2011-12-15"
+    },
+    {
+      "name": "Spain_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201411a.txt",
+      "type": "airspace",
+      "area": "es",
+      "update": "2014-12-13"
+    },
+    {
+      "name": "Sweden_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/SE/Sverige-2014-WP-rev0.TXT",
+      "type": "airspace",
+      "area": "se",
+      "update": "2014-06-17"
+    },
+    {
+      "name": "Switzerland_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/CH/CH-Luftraum_2014-03R3.txt",
+      "type": "airspace",
+      "area": "ch",
+      "update": "2014-03-05"
+    },
+    {
+      "name": "UK_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/UK/WPLTAS180714.txt",
+      "type": "airspace",
+      "area": "uk",
+      "update": "2014-12-11"
+    },
+    {
+      "name": "USA_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/NA/allusa.v14.11-13.1.txt",
+      "type": "airspace",
+      "area": "us",
+      "update": "2014-11-13"
+    }
+  ]
+}

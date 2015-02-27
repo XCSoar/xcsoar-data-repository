@@ -9,6 +9,7 @@
     "url": "https://github.com/XCSoar/xcsoar-data-repository/issues"
   },
   "scripts": {
+    "convert": "bin/convert.js",
     "test": "mocha -s 1000"
   },
   "devDependencies": {

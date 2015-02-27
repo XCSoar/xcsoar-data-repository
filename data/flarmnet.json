@@ -1,0 +1,9 @@
+{
+  "title": "FlarmNet",
+  "records": [{
+    "name": "data.fln",
+    "uri": "http://www.flarmnet.org/files/data.fln",
+    "type": "flarmnet",
+    "update": "daily"
+  }]
+}

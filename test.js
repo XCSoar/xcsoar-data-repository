@@ -1,50 +1,26 @@
-var fs = require('fs');
 var request = require('request');
 
-describe('repository', function() {
-    this.timeout(10000);
+var repository = require('./');
+repository.sections.forEach(describeSection);
 
-    var repo = fs.readFileSync('repository')
-        .toString()
-        .split('\n\n')
-        .map(function(record) {
-            return record.split('\n')
-                .map(function(line) {
-                    return line.trim();
-                })
-                .filter(function(line) {
-                    return line !== '' && line[0] != '#';
-                });
-        })
-        .filter(function(record) {
-            return record.length !== 0;
-        })
-        .map(function(record) {
-            var result = {};
+function describeSection(section) {
+    describe(section.title, function() {
+        section.records.forEach(checkRecord);
+    })
+}
 
-            for (var i = 0; i < record.length; i++) {
-                var line = record[i].split('=');
-                if (line.length != 2) {
-                    console.error('Record line misformed: ' + record[i]);
-                    continue;
-                }
+function checkRecord(record) {
+    it(record.name, function(done) {
+        this.timeout(10000);
 
-                result[line[0]] = line[1];
-            }
+        request.head(record.uri, function (error, response) {
+            if (error)
+                throw new Error(record.uri + ' failed with ' + error);
 
-            return result;
-        })
-        .map(function(record) {
-            it(record.name, function(done) {
-                request.head(record.uri, function (error, response, body) {
-                    if (error)
-                        throw new Error(record.uri + ' failed with ' + error);
+            if (response.statusCode != 200)
+                throw new Error(record.uri + ' returned with HTTP status code ' + response.statusCode);
 
-                    if (response.statusCode != 200)
-                        throw new Error(record.uri + ' returned with HTTP status code ' + response.statusCode);
-
-                    done();
-                });
-            });
+            done();
         });
-});
+    });
+}

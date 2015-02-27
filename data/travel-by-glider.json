@@ -1,0 +1,35 @@
+{
+  "title": "TravelByGlider.eu",
+  "records": [
+    {
+      "name": "TBG_SingleSeater_tomorrow.cup",
+      "uri": "http://travelbyglider.eu/TBG_SingleSeater_tomorrow.cup",
+      "type": "waypoint"
+    },
+    {
+      "name": "TBG_AirportDetails_SingleSeater_tomorrow.txt",
+      "uri": "http://travelbyglider.eu/TBG_AirportDetails_SingleSeater_tomorrow.txt",
+      "type": "waypoint-details"
+    },
+    {
+      "name": "TBG_DoubleSeater_tomorrow.cup",
+      "uri": "http://travelbyglider.eu/TBG_DoubleSeater_tomorrow.cup",
+      "type": "waypoint"
+    },
+    {
+      "name": "TBG_AirportDetails_DoubleSeater_tomorrow.txt",
+      "uri": "http://travelbyglider.eu/TBG_AirportDetails_DoubleSeater_tomorrow.txt",
+      "type": "waypoint-details"
+    },
+    {
+      "name": "TBG_SelfLaunch_tomorrow.cup",
+      "uri": "http://travelbyglider.eu/TBG_SelfLaunch_tomorrow.cup",
+      "type": "waypoint"
+    },
+    {
+      "name": "TBG_AirportDetails_SelfLaunch_tomorrow.txt",
+      "uri": "http://travelbyglider.eu/TBG_AirportDetails_SelfLaunch_tomorrow.txt",
+      "type": "waypoint-details"
+    }
+  ]
+}

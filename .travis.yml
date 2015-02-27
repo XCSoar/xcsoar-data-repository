@@ -9,4 +9,5 @@ after_success:
     - test $TRAVIS_PULL_REQUEST == 'false' &&
       test $TRAVIS_BRANCH == 'master' &&
       test $FTP_CREDENTIALS &&
+      npm run convert &&
       curl -T repository -u $FTP_CREDENTIALS --disable-epsv ftp://download.xcsoar.org/
