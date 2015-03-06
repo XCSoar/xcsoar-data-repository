@@ -115,10 +115,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://home.planet.nl/~dortu001/Databases/EHv14_5.txt",
+      "uri": "https://dl.dropboxusercontent.com/u/27739535/databases/EHv15_3.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2014-05-01"
+      "update": "2015-03-06"
     },
     {
       "name": "New_Zealand_Airspace.txt",
