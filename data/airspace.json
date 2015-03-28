@@ -136,10 +136,10 @@
     },
     {
       "name": "Slovakia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SK/SK2012.txt",
+      "uri": "http://soaringweb.org/Airspace/SK/LZBB140529.txt",
       "type": "airspace",
       "area": "sk",
-      "update": "2011-12-15"
+      "update": "2015-03-20"
     },
     {
       "name": "Slovenia_Airspace.txt",
