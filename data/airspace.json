@@ -66,10 +66,10 @@
     },
     {
       "name": "Finland_Airspace.txt",
-      "uri": "http://www.hansto.fi/seeyou/files/Ilmatila2012.txt",
+      "uri": "http://soaringweb.org/Airspace/FI/finland_airspace_20141103_openair.txt",
       "type": "airspace",
       "area": "fi",
-      "update": "2012-01-01"
+      "update": "2014-12-01"
     },
     {
       "name": "France-Airspace.txt",
