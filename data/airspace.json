@@ -52,10 +52,10 @@
     },
     {
       "name": "Czech_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/CZ/Cz2014.txt",
+      "uri": "http://soaringweb.org/Airspace/CZ/CZ_combined_2014_05_01.txt",
       "type": "airspace",
       "area": "cz",
-      "update": "2014-03-01"
+      "update": "2014-05-01"
     },
     {
       "name": "Denmark_Airspace.txt",
