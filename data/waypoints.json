@@ -2,6 +2,13 @@
   "title": "Waypoints",
   "records": [
     {
+      "name": "Australia.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Australia.cup",
+      "type": "waypoint",
+      "area": "au",
+      "update": "2013-02-17"
+    },
+    {
       "name": "France.cup",
       "uri": "http://download.xcsoar.org/waypoints/France.cup",
       "type": "waypoint",
