@@ -73,10 +73,10 @@
     },
     {
       "name": "France-Airspace.txt",
-      "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/150120__AIRSPACE_France_1501b.txt",
+      "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/000000__AIRSPACE_latest.txt",
       "type": "airspace",
       "area": "fr",
-      "update": "2015-01-20"
+      "update": "0000-00-00"
     },
     {
       "name": "Germany_Airspace.txt",
