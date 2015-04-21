@@ -9,13 +9,6 @@
       "update": "2008-03-06"
     },
     {
-      "name": "Austria_Airspace.txt",
-      "uri": "http://www.austrocontrol.at/jart/prj3/austro_control/main.jart?rel=de&reserve-mode=active&content-id=1360157906930&push-file=1420599221696",
-      "type": "airspace",
-      "area": "at",
-      "update": "2015-03-05"
-    },
-    {
       "name": "BelgiumLux_Airspace_Week.txt",
       "uri": "http://soaringweb.org/Airspace/BE/BELLUX_WEEK_140501.txt",
       "type": "airspace",
