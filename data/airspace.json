@@ -164,10 +164,10 @@
     },
     {
       "name": "UK_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/UK/WPLTAS180714.txt",
+      "uri": "http://soaringweb.org/Airspace/UK/UKHeights2015-05-02.txt",
       "type": "airspace",
       "area": "uk",
-      "update": "2014-12-11"
+      "update": "2015-05-02"
     },
     {
       "name": "USA_Airspace.txt",
