@@ -143,10 +143,10 @@
     },    
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201411a.txt",
+      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201507.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2014-12-13"
+      "update": "2015-09-24"
     },
     {
       "name": "Sweden_Airspace.txt",
