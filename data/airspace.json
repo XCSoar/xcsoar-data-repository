@@ -171,10 +171,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/allusa.v15.03-05.4.txt",
+      "uri": "http://soaringweb.org/Airspace/NA/allusa.v15.10-15.1.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2015-02-01"
+      "update": "2015-12-16"
     }
   ]
 }
