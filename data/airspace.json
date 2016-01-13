@@ -93,6 +93,13 @@
       "update": "2010-05-06"
     },
     {
+      "name": "Israel_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/AU/IS/israel_2014_v01.txt",
+      "type": "airspace",
+      "area": "il",
+      "update": "2016-01-13"
+    },
+    {
       "name": "Latvia_Airspace.txt",
       "uri": "http://soaringweb.org/Airspace/LV/lv_2014_05_04.txt",
       "type": "airspace",
