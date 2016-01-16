@@ -18,7 +18,7 @@ function writeSection(stream, section) {
 function writeRecord(stream, record) {
     for (var key in record)
         if (record.hasOwnProperty(key))
-            stream.write(key + '=' + record[key] + '\n')
+            stream.write(key + '=' + record[key] + '\n');
 
     stream.write('\n');
 }
