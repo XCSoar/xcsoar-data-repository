@@ -6,7 +6,7 @@ repository.sections.forEach(describeSection);
 function describeSection(section) {
     describe(section.title, function() {
         section.records.forEach(checkRecord);
-    })
+    });
 }
 
 function checkRecord(record) {
