@@ -29,17 +29,18 @@ Install with:
 
 `apt-get install nodejs mocha node-request`
 
-Via npm: 
- TBD.
+Via npm:
+
+`npm install`
 
 Usage 
 -----
 
-### URL tester:
+#### URL tester:
 
 `mocha test`
 
-### Generate repository flat file
+#### Generate repository flat file
 
 To Generate the repository flat file used by xcsoar, use the following command:
 
