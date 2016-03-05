@@ -66,10 +66,10 @@
     },
     {
       "name": "France-Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/FR/150807__AIRSPACE_France_1504f.txt",
+      "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/160222__AIRSPACE_FRANCE_TXT_1602a.txt",
       "type": "airspace",
       "area": "fr",
-      "update": "2015-08-07"
+      "update": "2016-02-01"
     },
     {
       "name": "Germany_Airspace.txt",
