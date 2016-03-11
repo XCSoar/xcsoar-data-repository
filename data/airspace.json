@@ -164,10 +164,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/CH/CH-Luftraum_2015_03.1.txt",
+      "uri": "http://soaringweb.org/Airspace/CH/CH-Luftraum_2016_03.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2015-05-03"
+      "update": "2016-03-09"
     },
     {
       "name": "UK_Airspace.txt",
