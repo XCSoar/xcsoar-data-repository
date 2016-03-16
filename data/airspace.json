@@ -23,6 +23,13 @@
       "update": "2014-05-01"
     },
     {
+      "name": "Brazil_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/BR/BRA13A16.txt",
+      "type": "airspace",
+      "area": "br",
+      "update": "2016-03-15"
+    },
+    {
       "name": "Bulgaria_Airspace.txt",
       "uri": "http://pg.v5d.org/airspace/bg_airspace_latest.txt",
       "type": "airspace",
