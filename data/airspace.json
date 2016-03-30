@@ -122,7 +122,7 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "https://dl.dropboxusercontent.com/u/27739535/databases/EHv15_3c.txt",
+      "uri": "http://soaringweb.org/Airspace/NL/EHv15_3c.txt",
       "type": "airspace",
       "area": "nl",
       "update": "2015-03-05"
