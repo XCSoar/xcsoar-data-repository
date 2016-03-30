@@ -80,10 +80,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/20151112_OpenAir.txt",
+      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week13_2016.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2015-11-12"
+      "update": "2016-03-29"
     },
     {
       "name": "Germany_ParachutingZones.txt",
