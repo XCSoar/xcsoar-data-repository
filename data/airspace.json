@@ -87,17 +87,17 @@
     },
     {
       "name": "Germany_ParachutingZones.txt",
-      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/2015_April_Sprungzonen.txt",
+      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/2016-03-31_Sprungzonen.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2015-04-01"
+      "update": "2016-03-31"
     },
     {
       "name": "Hungary_Airspace.txt",
       "uri": "http://soaringweb.org/Airspace/HU/Hungary_2012.txt",
       "type": "airspace",
       "area": "hu",
-      "update": "2010-05-06"
+      "update": "2012-02-21"
     },
     {
       "name": "Israel_Airspace.txt",
