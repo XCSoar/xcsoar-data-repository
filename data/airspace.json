@@ -164,10 +164,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SE/Sverige-2014-WP-rev0.TXT",
+      "uri": "http://soaringweb.org/Airspace/SE/Sverige-2015-WP-rev1.TXT",
       "type": "airspace",
       "area": "se",
-      "update": "2014-06-17"
+      "update": "2015-05-06"
     },
     {
       "name": "Switzerland_Airspace.txt",
