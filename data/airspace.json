@@ -150,10 +150,10 @@
     },
     {
       "name": "Slovenia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SI/SlowenienX2009XXOpenAirX.txt",
+      "uri": "http://soaringweb.org/Airspace/SI/si_2016.04.txt",
       "type": "airspace",
       "area": "si",
-      "update": "2009-03-12"
+      "update": "2016-03-31"
     },
     {
       "name": "Spain_Airspace.txt",
