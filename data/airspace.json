@@ -100,6 +100,13 @@
       "update": "2016-03-31"
     },
     {
+      "name": "Greece_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/GR/greece_03.txt",
+      "type": "airspace",
+      "area": "de",
+      "update": "2016-04-10"
+    },
+    {
       "name": "Hungary_Airspace.txt",
       "uri": "http://soaringweb.org/Airspace/HU/Hungary_2012.txt",
       "type": "airspace",
