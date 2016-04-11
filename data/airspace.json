@@ -66,10 +66,10 @@
     },
     {
       "name": "Denmark_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/DK/DK-AllinOne-20160330.txt",
+      "uri": "http://soaringweb.org/Airspace/DK/DK-AllinOne-20160408.txt",
       "type": "airspace",
       "area": "dk",
-      "update": "2016-03-30"
+      "update": "2016-04-11"
     },
     {
       "name": "Finland_Airspace.txt",
