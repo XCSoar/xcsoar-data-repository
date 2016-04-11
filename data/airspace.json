@@ -171,10 +171,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201507.txt",
+      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201509.txt", 
       "type": "airspace",
       "area": "es",
-      "update": "2015-09-24"
+      "update": "2016-04-11"
     },
     {
       "name": "Sweden_Airspace.txt",
