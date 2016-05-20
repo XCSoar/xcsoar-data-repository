@@ -45,10 +45,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/canadian_airspace_254.air",
+      "uri": "http://soaringweb.org/Airspace/NA/canadian_airspace_256.air",
       "type": "airspace",
       "area": "ca",
-      "update": "2016-01-14"
+      "update": "2016-05-20"
     },
     {
       "name": "Croatia_Airspace.txt",
