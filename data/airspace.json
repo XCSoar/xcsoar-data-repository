@@ -79,7 +79,7 @@
       "update": "2014-12-01"
     },
     {
-      "name": "France-Airspace.txt",
+      "name": "France_Airspace.txt",
       "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/__AIRSPACE_latest.txt",
       "type": "airspace",
       "area": "fr",
