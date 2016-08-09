@@ -23,6 +23,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: scp $TRAVIS_BUILD_DIR/repository -P $DEPLOY_PORT ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+  script: scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
   on:
     branch: master
