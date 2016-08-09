@@ -10,8 +10,6 @@ env:
 after_success:
 - test $TRAVIS_PULL_REQUEST == 'false' && test $TRAVIS_BRANCH == 'master' && npm run
   convert &&
-addons:
-  ssh_known_hosts: download.xcsoar.org:${DEPLOY_PORT}
 before_install:
 - openssl aes-256-cbc -K $encrypted_d58e3837dba5_key -iv $encrypted_d58e3837dba5_iv
   -in xcsoar-data-repository_rsa.enc -out xcsoar-data-repository_rsa -d
@@ -23,6 +21,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+  script: ssh-keyscan -P ${DEPLOY_PORT} ${DEPLOY_HOST} > ~/.ssh/known_hosts && scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
   on:
     branch: master
