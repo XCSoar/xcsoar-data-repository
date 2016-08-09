@@ -1,13 +1,24 @@
 language: node_js
-
 sudo: false
-
 env:
-    secure: 'KdqxlcDenBxVTcLI721wyqYq8VeLrD1Jw8BiyphT/ikxTyO35lU+M9ETvUv5U+UvVQo6PABJK/RG+pKb1XuAv9Wa3D5MX1p5rPg9tilWCxiv0cITs3D3f8Opu+DYdZ47OQpvHdiktMunquN/X4pBKW81PjyQmY3NKuResR03ANU='
-
+  secure: Cxycm98UqGetBaFvU7PwTbrdV7FHPUmUSZO8z4e0te3+J13PJBnNO/fysOlvXhDeM4GN3CeBjcOaKIQGhxJHv/h7b0h7/qwwYrU0leatc9FETagP7EJmFaSYne3SN7D8nJQ3LePmO1TtkFkBZw35anz8Sa75ihupR9wV6ruvFvw=
 after_success:
-    - test $TRAVIS_PULL_REQUEST == 'false' &&
-      test $TRAVIS_BRANCH == 'master' &&
-      test $FTP_CREDENTIALS &&
-      npm run convert &&
-      curl -T repository -u $FTP_CREDENTIALS --disable-epsv ftp://download.xcsoar.org/
+- test $TRAVIS_PULL_REQUEST == 'false' && test $TRAVIS_BRANCH == 'master' && npm run
+  convert &&
+addons:
+  ssh_known_hosts: 08d3d27bc8bf5c6108034528dd60bb6021cf8c41fdce6f22aab5176afa73129d
+before_install:
+- openssl aes-256-cbc -K $encrypted_d58e3837dba5_key -iv $encrypted_d58e3837dba5_iv
+  -in xcsoar-data-repository_rsa.enc -out xcsoar-data-repository_rsa -d
+- openssl aes-256-cbc
+before_deploy:
+- eval "$(ssh-agent s-)"
+- chmod 600 $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
+- ssh-add $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
+- nodejs ./bin/convert.js
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: scp $TRAVIS_BUILD_DIR/repository repository@download.xcsoar.org:/var/www/xcsoar/download/repository
+  on:
+    branch: master
