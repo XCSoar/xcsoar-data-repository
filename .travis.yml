@@ -10,7 +10,7 @@ addons:
 before_install:
 - openssl aes-256-cbc -K $encrypted_d58e3837dba5_key -iv $encrypted_d58e3837dba5_iv -in xcsoar-data-repository_rsa.enc -out xcsoar-data-repository_rsa -d
 before_deploy:
-- eval "$(ssh-agent s-)"
+- eval "$(ssh-agent -s)"
 - chmod 600 $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
 - ssh-add $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
 - nodejs ./bin/convert.js
