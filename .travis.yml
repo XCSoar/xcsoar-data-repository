@@ -13,7 +13,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
 - ssh-add $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
-- nodejs ./bin/convert.js
+- npm run convert
 deploy:
   provider: script
   skip_cleanup: true
