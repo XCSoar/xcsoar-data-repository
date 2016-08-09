@@ -87,10 +87,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week13_2016.txt",
+      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week22_2016.txt", 
       "type": "airspace",
       "area": "de",
-      "update": "2016-03-29"
+      "update": "2016-08-05"
     },
     {
       "name": "Germany_ParachutingZones.txt",
