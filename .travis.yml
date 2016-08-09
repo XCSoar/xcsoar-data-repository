@@ -11,7 +11,7 @@ after_success:
 - test $TRAVIS_PULL_REQUEST == 'false' && test $TRAVIS_BRANCH == 'master' && npm run
   convert &&
 addons:
-  ssh_known_hosts: 00:19:29:7d:5e:70:2e:61:3c:9c:b9:96:c1:94:b8:4d
+  ssh_known_hosts: download.xcsoar.org
 before_install:
 - openssl aes-256-cbc -K $encrypted_d58e3837dba5_key -iv $encrypted_d58e3837dba5_iv
   -in xcsoar-data-repository_rsa.enc -out xcsoar-data-repository_rsa -d
