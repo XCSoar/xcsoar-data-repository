@@ -2,7 +2,7 @@
   "title": "OpenAIP (http://www.openaip.net)",
   "records": [{
     "name": "OpenAIP-Hotspots.cup",
-    "uri": "http://www.open-aip.org/public_export/hotspots/world_hot.cup",
+    "uri": "https://www.openaip.net/xcsoar_export/world_hot.cup",
     "type": "waypoint",
     "update": "monthly"
   }]
