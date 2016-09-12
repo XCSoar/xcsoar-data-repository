@@ -199,7 +199,7 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/allusa.v16.09-15.1.txt",
+      "uri": "http://soaringweb.org/Airspace/NA/allusa.v16.09-15.2.txt",
       "type": "airspace",
       "area": "us",
       "update": "2016-09-15"
