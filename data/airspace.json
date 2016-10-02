@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/AU/australia_class_all_15_11_12.txt",
+      "uri": "http://soaringweb.org/Airspace/AU/australia_class_all_16_05_24.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2016-01-13"
+      "update": "2016-05-24"
     },
     {
       "name": "Austria_Airspace.txt",
