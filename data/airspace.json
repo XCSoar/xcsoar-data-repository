@@ -87,7 +87,7 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week22_2016.txt", 
+      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week22_2016.txt",
       "type": "airspace",
       "area": "de",
       "update": "2016-08-05"
@@ -150,10 +150,10 @@
     },
     {
       "name": "Poland_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/PL/08_JAN_2015_Polska.txt",
+      "uri": "http://soaringweb.org/Airspace/PL/2016-04-21_Polska.txt",
       "type": "airspace",
       "area": "po",
-      "update": "2015-01-08"
+      "update": "2016-04-21"
     },
     {
       "name": "Slovakia_Airspace.txt",
@@ -171,7 +171,7 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201509.txt", 
+      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201509.txt",
       "type": "airspace",
       "area": "es",
       "update": "2016-04-11"
