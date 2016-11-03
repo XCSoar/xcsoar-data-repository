@@ -157,6 +157,7 @@
     },
     { "name": "Romania_Airspace.txt", 
       "uri": "http://soaringweb.org/Airspace/RO/romanian_airspace_2016.02.22.txt",
+      "type": "airspace",
       "area": "ro", 
       "update": "2016-10-07"
     }, 
