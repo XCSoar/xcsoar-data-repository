@@ -31,10 +31,10 @@
     },
     {
       "name": "Brazil_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/BR/BRA13A16.txt",
+      "uri": "http://soaringweb.org/Airspace/BR/BR_DEZ_16.txt",
       "type": "airspace",
       "area": "br",
-      "update": "2016-03-15"
+      "update": "2016-12-09"
     },
     {
       "name": "Bulgaria_Airspace.txt",
