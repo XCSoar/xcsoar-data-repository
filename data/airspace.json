@@ -155,12 +155,12 @@
       "area": "po",
       "update": "2016-04-21"
     },
-    { "name": "Romania_Airspace.txt", 
-      "uri": "http://soaringweb.org/Airspace/RO/romanian_airspace_2016.02.22.txt",
+    { "name": "Romania_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/RO/Romanian_Airspace_2016.12.08.txt",
       "type": "airspace",
-      "area": "ro", 
-      "update": "2016-10-07"
-    }, 
+      "area": "ro",
+      "update": "2016-12-08"
+    },
     {
       "name": "Slovakia_Airspace.txt",
       "uri": "http://soaringweb.org/Airspace/SK/LZBB140529.txt",
@@ -205,10 +205,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/allusa.v16.09-15.2.txt",
+      "uri": "http://soaringweb.org/Airspace/NA/allusa.v16.11-10.2.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2016-09-15"
+      "update": "2016-11-10"
     }
   ]
 }
