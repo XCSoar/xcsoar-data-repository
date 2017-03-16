@@ -7,13 +7,6 @@
       "type": "waypoint",
       "area": "uk",
       "update": "2016-02-09"
-    },
-    {
-      "name": "WELT2000.cup",
-      "uri": "http://www.segelflug.de/vereine/welt2000/download/SEEYOU.CUP",
-      "type": "waypoint",
-      "area": "world",
-      "update": "2016-02-09"
     }
     ]
 }
