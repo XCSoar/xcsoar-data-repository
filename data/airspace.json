@@ -136,10 +136,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NL/EHv16_3.txt",
+      "uri": "https://raw.githubusercontent.com/xcsoar/xcsoar-data-repository/master/data/airspace/nl.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2016-05-09"
+      "update": "2017-03-24"
     },
     {
       "name": "New_Zealand_Airspace.txt",
