@@ -87,17 +87,17 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/DE/Germany_Week22_2016.txt",
+      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/wo_para_DAeC_Airspace_Germany_CW13_2017.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2016-08-05"
+      "update": "2017-03-30"
     },
     {
       "name": "Germany_ParachutingZones.txt",
-      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/2016_April_Sprungzonen.txt",
+      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/para_DAeC_CW13_2017.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2016-04-12"
+      "update": "2017-03-30"
     },
     {
       "name": "Greece_Airspace.txt",
