@@ -3,7 +3,7 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/AU/australia_class_all_16_11_10.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_16_11_10.txt",
       "type": "airspace",
       "area": "au",
       "update": "2016-12-02"
@@ -17,21 +17,21 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "http://soaringweb.org/Airspace/BE/BELLUX_WEEK_140501.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEK_140501.txt",
       "type": "airspace",
       "area": "be",
       "update": "2014-05-01"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "http://soaringweb.org/Airspace/BE/bellux_weekend_14_base_rev2.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/bellux_weekend_14_base_rev2.txt",
       "type": "airspace",
       "area": "be",
       "update": "2014-05-01"
     },
     {
       "name": "Brazil_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/BR/BR_DEZ_16.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BR/BR_DEZ_16.txt",
       "type": "airspace",
       "area": "br",
       "update": "2016-12-09"
@@ -45,35 +45,35 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/canadian_airspace_259.air",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_259.air",
       "type": "airspace",
       "area": "ca",
       "update": "2016-11-18"
     },
     {
       "name": "Croatia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/HR/HRV-2012.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/HR/HRV-2012.txt",
       "type": "airspace",
       "area": "hr",
       "update": "2013-05-08"
     },
     {
       "name": "Czech_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/CZ/Cz_all_2015_10_15.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CZ/Cz_all_2015_10_15.txt",
       "type": "airspace",
       "area": "cz",
       "update": "2015-10-15"
     },
     {
       "name": "Denmark_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/DK/DK-AllinOne-20160408.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/DK/DK-AllinOne-20160408.txt",
       "type": "airspace",
       "area": "dk",
       "update": "2016-04-11"
     },
     {
       "name": "Finland_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/FI/finland_airspace_20141103_openair.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FI/finland_airspace_20141103_openair.txt",
       "type": "airspace",
       "area": "fi",
       "update": "2014-12-01"
@@ -87,7 +87,7 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/DE/Germany_Week22_2016.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/DE/Germany_Week22_2016.txt",
       "type": "airspace",
       "area": "de",
       "update": "2016-08-05"
@@ -101,35 +101,35 @@
     },
     {
       "name": "Greece_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/GR/greece_03.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/GR/greece_03.txt",
       "type": "airspace",
       "area": "gr",
       "update": "2016-04-10"
     },
     {
       "name": "Hungary_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/HU/Hungary_2012.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/HU/Hungary_2012.txt",
       "type": "airspace",
       "area": "hu",
       "update": "2012-02-21"
     },
     {
       "name": "Israel_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/IS/israel_2014_v01.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/IS/israel_2014_v01.txt",
       "type": "airspace",
       "area": "il",
       "update": "2016-01-13"
     },
     {
       "name": "Latvia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/LV/lv_2014_05_04.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/LV/lv_2014_05_04.txt",
       "type": "airspace",
       "area": "lv",
       "update": "2014-05-04"
     },
     {
       "name": "Lithuania_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/LT/LT_2012.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/LT/LT_2012.txt",
       "type": "airspace",
       "area": "lt",
       "update": "2012-05-29"
@@ -143,55 +143,55 @@
     },
     {
       "name": "New_Zealand_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NZ/NZ.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NZ/NZ.txt",
       "type": "airspace",
       "area": "nz",
       "update": "2007-11-27"
     },
     {
       "name": "Poland_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/PL/2016-04-21_Polska.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/PL/2016-04-21_Polska.txt",
       "type": "airspace",
       "area": "po",
       "update": "2016-04-21"
     },
     { "name": "Romania_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/RO/Romanian_Airspace_2016.12.08.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/RO/Romanian_Airspace_2016.12.08.txt",
       "type": "airspace",
       "area": "ro",
       "update": "2016-12-08"
     },
     {
       "name": "Slovakia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SK/LZBB140529.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/SK/LZBB140529.txt",
       "type": "airspace",
       "area": "sk",
       "update": "2015-03-20"
     },
     {
       "name": "Slovenia_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SI/si_2016.04.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/SI/si_2016.04.txt",
       "type": "airspace",
       "area": "si",
       "update": "2016-03-31"
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201610.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201610.txt",
       "type": "airspace",
       "area": "es",
       "update": "2016-04-11"
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/SE/Sverige-2016-WP-rev0.TXT",
+      "uri": "http://soaring.gahsys.com/Airspace/SE/Sverige-2016-WP-rev0.TXT",
       "type": "airspace",
       "area": "se",
       "update": "2016-04-04"
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/CH/CH-Luftraum_2016_04_27.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2016_04_27.txt",
       "type": "airspace",
       "area": "ch",
       "update": "2016-04-28"
@@ -205,7 +205,7 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/NA/allusa.v17.03-02.2.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v17.03-02.2.txt",
       "type": "airspace",
       "area": "us",
       "update": "2017-03-16"
