@@ -21,3 +21,10 @@ deploy:
   script: ssh-keyscan -p ${DEPLOY_PORT} ${DEPLOY_HOST} > ~/.ssh/known_hosts && scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
   on:
     branch: master
+
+notifications:
+  irc: 
+    channels: 
+      - chat.freenode.net#xcsoar
+    on_success: change 
+    on_failure: always
