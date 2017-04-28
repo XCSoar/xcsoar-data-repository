@@ -58,13 +58,6 @@
       "update": "2013-05-08"
     },
     {
-      "name": "Czech_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CZ/Cz_all_2015_10_15.txt",
-      "type": "airspace",
-      "area": "cz",
-      "update": "2015-10-15"
-    },
-    {
       "name": "Denmark_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/DK/DK-AllinOne-20170403.txt",
       "type": "airspace",
