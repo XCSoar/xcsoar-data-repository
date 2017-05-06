@@ -51,6 +51,14 @@
       "update": "2016-11-18"
     },
     {
+      "name": "Czech_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CZ/CZ_combined_2017_03_30.txt",
+      "type": "airspace",
+      "area": "cz",
+      "update": "2017-05-07"
+    },
+ 
+    {
       "name": "Croatia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/HR/HRV-2012.txt",
       "type": "airspace",
