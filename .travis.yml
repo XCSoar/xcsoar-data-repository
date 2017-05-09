@@ -26,5 +26,5 @@ notifications:
   irc: 
     channels: 
       - chat.freenode.net#xcsoar
-    on_success: change 
+    on_success: always 
     on_failure: always
