@@ -158,10 +158,10 @@
     },
     {
       "name": "Poland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/PL/2016-04-21_Polska.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/PL/2017_05_08_Poland_Airspaces.txt",
       "type": "airspace",
       "area": "po",
-      "update": "2016-04-21"
+      "update": "2017-05-14"
     },
     { "name": "Romania_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/RO/Romanian_Airspace_2016.12.08.txt",
