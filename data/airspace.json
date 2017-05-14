@@ -199,10 +199,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2016_04_27.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CH/170507_CH.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2016-04-28"
+      "update": "2017-05-12"
     },
     {
       "name": "UK_Airspace.txt",
