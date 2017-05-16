@@ -1,0 +1,12 @@
+{
+  "title": "Airspace",
+  "records": [
+    {
+      "name": "HWW17_Airspace_ohne.txt",
+      "uri": "https://raw.githubusercontent.com/xcsoar/xcsoar-data-repository/f59ec18922132fd25011a371d618600beca9038d/data/airspace/HWW17_Airspace_ohne.txt",
+      "type": "airspace",
+      "area": "de",
+      "update": "2017-05-16"
+    }
+  ]
+}
