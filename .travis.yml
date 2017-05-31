@@ -28,3 +28,7 @@ notifications:
       - chat.freenode.net#xcsoar
     on_success: always 
     on_failure: always
+    template:
+       - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{commit_subject}:  %{message}"
+       - "Change view : %{compare_url}"
+       - "Build details : %{build_url}"
