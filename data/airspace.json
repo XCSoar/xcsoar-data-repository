@@ -51,6 +51,14 @@
       "update": "2016-11-18"
     },
     {
+      "name": "Czech_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CZ/CZ_combined_2017_03_30.txt",
+      "type": "airspace",
+      "area": "cz",
+      "update": "2017-05-07"
+    },
+ 
+    {
       "name": "Croatia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/HR/HRV-2012.txt",
       "type": "airspace",
@@ -58,18 +66,11 @@
       "update": "2013-05-08"
     },
     {
-      "name": "Czech_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CZ/Cz_all_2015_10_15.txt",
-      "type": "airspace",
-      "area": "cz",
-      "update": "2015-10-15"
-    },
-    {
       "name": "Denmark_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/DK/DK-AllinOne-20170403.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/DK/DK-OpenAir-AllinOne-20170508.txt",
       "type": "airspace",
       "area": "dk",
-      "update": "2017-04-04"
+      "update": "2017-05-09"
     },
     {
       "name": "Finland_Airspace.txt",
@@ -80,24 +81,31 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "http://s289271336.onlinehome.fr/dossiers_ffvv/files/170416__AIRSPACE_FRANCE_TXT_1703.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FR/170529__AIRSPACE_FRANCE_1705.txt",
       "type": "airspace",
       "area": "fr",
-      "update": "2017-04-18"
+      "update": "2017-05-31"
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/rep-gsec_wo_para_DAeC_Airspace_Germany_CW13_2017.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/corr_wo_para_DAeC_Airspace_Germany_CW14_2017.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2017-03-30"
+      "update": "2017-05-07"
+    },
+    {
+      "name": "Germany_Border.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2012/service/luftraumdaten/Grenze_Deutschland.txt",
+      "type": "airspace",
+      "area": "de",
+      "update": "2017-05-09"
     },
     {
       "name": "Germany_ParachutingZones.txt",
-      "uri": "http://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/para_DAeC_CW13_2017.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2012/fachbereiche/luftraum/para_DAeC_CW17_2017.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2017-03-30"
+      "update": "2017-05-07"
     },
     {
       "name": "Greece_Airspace.txt",
@@ -150,10 +158,10 @@
     },
     {
       "name": "Poland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/PL/2016-04-21_Polska.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/PL/2017_05_08_Poland_Airspaces.txt",
       "type": "airspace",
       "area": "po",
-      "update": "2016-04-21"
+      "update": "2017-05-14"
     },
     { "name": "Romania_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/RO/romanian_airspace_2017.txt",
@@ -191,10 +199,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2016_04_27.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CH/170507_CH.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2016-04-28"
+      "update": "2017-05-12"
     },
     {
       "name": "UK_Airspace.txt",

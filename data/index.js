@@ -4,6 +4,7 @@ exports.sections = [
     require('./waypoints-by-country.json'),
     require('./waypoints-special.json'),
     require('./airspace.json'),
+    require('./airspace-special.json'),
     require('./openaip.json'),
     require('./gliding-hotspots.json'),
     require('./travel-by-glider.json'),
