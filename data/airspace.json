@@ -156,10 +156,10 @@
       "update": "2016-04-21"
     },
     { "name": "Romania_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/RO/Romanian_Airspace_2016.12.08.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/RO/romanian_airspace_2017.txt",
       "type": "airspace",
       "area": "ro",
-      "update": "2016-12-08"
+      "update": "2017-06-12"
     },
     {
       "name": "Slovakia_Airspace.txt",
