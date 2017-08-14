@@ -116,10 +116,10 @@
     },
     {
       "name": "Hungary_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/HU/Hungary_2012.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/HU/HungarySUA2017_openair.txt",
       "type": "airspace",
       "area": "hu",
-      "update": "2012-02-21"
+      "update": "2017-09-14"
     },
     {
       "name": "Israel_Airspace.txt",
@@ -192,10 +192,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SE/Sverige-2016-WP-rev0.TXT",
+      "uri": "http://soaring.gahsys.com/Airspace/SE/sverige-2017-wp-rev0.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2016-04-04"
+      "update": "2017-08-14"
     },
     {
       "name": "Switzerland_Airspace.txt",
