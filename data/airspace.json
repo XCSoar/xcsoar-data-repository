@@ -31,7 +31,7 @@
     },
     {
       "name": "Brazil_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/BR/BR_DEZ_16.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BR/2017_06_05_CBVL_BRASIL_TOTAL_R1.txt",
       "type": "airspace",
       "area": "br",
       "update": "2016-12-09"
