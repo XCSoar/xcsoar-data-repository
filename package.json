@@ -13,6 +13,7 @@
     "test": "mocha -s 1000"
   },
   "devDependencies": {
+    "supports-color": ">=4.0.0",
     "mocha": ">=2.3.4",
     "request": ">=2.67.0"
   }
