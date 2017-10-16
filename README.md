@@ -17,31 +17,26 @@ of the file should pretty much explain itself.
 
 Requirements
 ------------
- * [NodeJS](https://nodejs.org)
- * [Request Library](https://github.com/request/request)
- * [mocha](http://mochajs.org/)
+
+* [NodeJS](https://nodejs.org)
 
 Installation on Debian 
 ----------------------
 
-From Packagemanager: 
-Install with:
-
-`apt-get install nodejs mocha node-request`
-
-Via npm:
-
-`npm install`
+```
+apt-get install nodejs
+npm install
+```
 
 Usage 
 -----
 
 #### URL tester:
 
-`mocha test`
+`npm test`
 
 #### Generate repository flat file
 
-To Generate the repository flat file used by xcsoar, use the following command:
+To generate the repository flat file used by xcsoar, use the following command:
 
-`nodejs ./bin/convert.js`
+`npm run convert`
