@@ -26,7 +26,7 @@ notifications:
   irc: 
     channels: 
       - chat.freenode.net#xcsoar
-    on_success: always 
+    on_success: change 
     on_failure: always
     template:
        - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{commit_subject}:  %{message}"
