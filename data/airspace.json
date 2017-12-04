@@ -3,7 +3,7 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_17_11_09.txt"
+      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_17_11_09.txt", 
       "type": "airspace",
       "area": "au",
       "update": "2017-12-04"
@@ -45,10 +45,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_259.air",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_265.air",
       "type": "airspace",
       "area": "ca",
-      "update": "2016-11-18"
+      "update": "2017-12-04"
     },
     {
       "name": "Czech_Airspace.txt",
