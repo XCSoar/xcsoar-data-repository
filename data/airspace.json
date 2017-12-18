@@ -185,10 +185,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201703.txt",
+      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201712.full.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2017-03-04"
+      "update": "2017-12-18"
     },
     {
       "name": "Sweden_Airspace.txt",
