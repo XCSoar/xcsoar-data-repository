@@ -81,7 +81,7 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/FR/171114__AIRSPACE_France_1711.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FR/171114__AIRSPACE_France_1711.txt",
       "type": "airspace",
       "area": "fr",
       "update": "2017-12-18"
@@ -185,7 +185,7 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaringweb.org/Airspace/ES/SUASpain201712.full.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201712.full.txt",
       "type": "airspace",
       "area": "es",
       "update": "2017-12-18"
