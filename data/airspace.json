@@ -122,6 +122,13 @@
       "update": "2017-09-14"
     },
     {
+      "name": "Ireland_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/EI/IrelandSua2018.txt",
+      "type": "airspace",
+      "area": "ie",
+      "update": "2018-03-21"
+    },
+    {
       "name": "Israel_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/IS/israel_2014_v01.txt",
       "type": "airspace",
