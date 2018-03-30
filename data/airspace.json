@@ -123,10 +123,10 @@
     },
     {
       "name": "Ireland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/EI/IrelandSua2018.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/EI/IrelandSua2018a.txt",
       "type": "airspace",
       "area": "ie",
-      "update": "2018-03-21"
+      "update": "2018-03-25"
     },
     {
       "name": "Israel_Airspace.txt",
