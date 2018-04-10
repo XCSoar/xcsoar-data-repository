@@ -136,6 +136,13 @@
       "update": "2016-01-13"
     },
     {
+      "name": "Italy_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/IT/Italia_Mar2018R1.txt",
+      "type": "airspace", 
+      "area": "it",
+      "update": "2018-04-10"
+    },
+    {
       "name": "Latvia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/LV/lv_2014_05_04.txt",
       "type": "airspace",
