@@ -20,9 +20,7 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: truej
-  script: echo "host ${DEPLOY_HOST}
-    port ${DEPLOY_PORT 
-      user ${DEPLOY_USER}" > ~/.ssh/config && ssh-keyscan -p ${DEPLOY_PORT} ${DEPLOY_HOST} > ~/.ssh/known_hosts && scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH} && rsync -av -e ssh --delete $TRAVIS_BUILD_DIR/data/waypoints/ ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}/waypoints/ 
+  script: echo "host ${DEPLOY_HOST} \n port ${DEPLOY_PORT} \n user ${DEPLOY_USER}" > ~/.ssh/config && ssh-keyscan -p ${DEPLOY_PORT} ${DEPLOY_HOST} > ~/.ssh/known_hosts && scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH} && rsync -av -e ssh --delete $TRAVIS_BUILD_DIR/data/waypoints/ ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}/waypoints/ 
   on:
     branch: master
 
