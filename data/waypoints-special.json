@@ -2,11 +2,11 @@
   "title": "Waypoints-Special",
   "records": [
     {
-      "name": "BGA2017.dat",
-      "uri": "http://www.nvgc.org.uk/BGA2017.dat",
+      "name": "BGA2018.dat",
+      "uri": "http://www.nvgc.org.uk/BGA2018.dat",
       "type": "waypoint",
       "area": "uk",
-      "update": "2017-04-18"
+      "update": "2018-04-18"
     }
   ]
 }
