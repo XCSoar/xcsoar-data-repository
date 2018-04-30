@@ -81,10 +81,10 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/FR/180404__AIRSPACE_France_2018-04v2.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FR/180427__AIRSPACE_France_2018-05.txt",
       "type": "airspace",
       "area": "fr",
-      "update": "2018-04-18"
+      "update": "2018-04-28"
     },
     {
       "name": "Germany_Airspace.txt",
