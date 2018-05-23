@@ -137,10 +137,10 @@
     },
     {
       "name": "Italy_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/IT/Italia_Mar2018R1.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/IT/Italia_May2018.txt",
       "type": "airspace", 
       "area": "it",
-      "update": "2018-04-10"
+      "update": "2018-05-23"
     },
     {
       "name": "Latvia_Airspace.txt",
