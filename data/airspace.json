@@ -213,10 +213,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CH/170507_CH.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2018_05_14.txt", 
       "type": "airspace",
       "area": "ch",
-      "update": "2017-05-12"
+      "update": "2018-05-14"
     },
     {
       "name": "UK_Airspace.txt",
