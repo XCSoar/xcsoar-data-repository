@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "BGA2018.dat",
-      "uri": "http://www.nvgc.org.uk/BGA2018.dat",
+      "uri": "http://www.nvgc.org.uk/BGA2018a.dat",
       "type": "waypoint",
       "area": "uk",
-      "update": "2018-04-18"
+      "update": "2018-05-07"
     },
     {
       "name": "2018_Hotzenwaldwettbewerb_V3.cup",
@@ -14,5 +14,6 @@
       "type": "waypoint",
       "area": "de",
       "update": "2018-05-24"
+    }
   ]
 }
