@@ -1,8 +1,8 @@
 {
-  "title": "FlarmNet",
+  "title": "OGN DDB (flarmnet) ",
   "records": [{
     "name": "data.fln",
-    "uri": "http://www.flarmnet.org/files/data.fln",
+    "uri": "http://ddb.glidernet.org/download/download-fln.php",
     "type": "flarmnet",
     "update": "daily"
   }]
