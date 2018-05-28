@@ -206,10 +206,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SE/sverige-2017-wp-rev0.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/SE/sverige-2018-cu-rev0.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2017-08-14"
+      "update": "2018-05-23"
     },
     {
       "name": "Switzerland_Airspace.txt",
