@@ -5,5 +5,10 @@
     "uri": "http://ddb.glidernet.org/download/download-fln.php",
     "type": "flarmnet",
     "update": "daily"
+  }, {
+    "name": "ogn-device-database.fln",
+    "uri": "http://ddb.glidernet.org/download/download-fln.php",
+    "type": "flarmnet",
+    "update": "daily"
   }]
 }
