@@ -227,7 +227,7 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v17.08-17.2.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.06-21.1.txt",
       "type": "airspace",
       "area": "us",
       "update": "2017-07-14"
