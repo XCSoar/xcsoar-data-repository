@@ -81,10 +81,10 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/FR/180504__AIRSPACE_France_2018-05v21.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FR/180528__AIRSPACE_France_2018-06.txt", 
       "type": "airspace",
       "area": "fr",
-      "update": "2018-05-23"
+      "update": "2018-06-05"
     },
     {
       "name": "Germany_Airspace.txt",
@@ -230,7 +230,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.06-21.1.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2017-07-14"
+      "update": "2018-06-05"
     }
   ]
 }
