@@ -143,6 +143,13 @@
       "update": "2018-05-23"
     },
     {
+      "name": "Japan_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/JP/JapanAS180621.txt",
+      "type": "airspace", 
+      "area": "jp",
+      "update": "2018-06-21"
+    },
+    {
       "name": "Latvia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/LV/lv_2014_05_04.txt",
       "type": "airspace",
