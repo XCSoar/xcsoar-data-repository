@@ -179,10 +179,10 @@
     },
     {
       "name": "Poland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/PL/2017_05_08_Poland_Airspaces.txt",
+      "uri": "http://soaringweb.org/Airspace/PL/2018_08_05_Poland_Airspaces.txt",
       "type": "airspace",
       "area": "po",
-      "update": "2017-05-14"
+      "update": "2018-08-13"
     },
     { "name": "Romania_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/RO/romanian_airspace_2017.txt",
@@ -224,6 +224,13 @@
       "type": "airspace",
       "area": "ch",
       "update": "2018-05-14"
+    },
+    {
+      "name": "Ukraine_Airspace.txt",
+      "uri": "http://soaringweb.org/Airspace/UA/Ukraine_airspace_2018.sua", 
+      "type": "airspace",
+      "area": "ua",
+      "update": "2018-08-13"
     },
     {
       "name": "UK_Airspace.txt",
