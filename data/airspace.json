@@ -227,10 +227,10 @@
     },
     {
       "name": "Ukraine_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2018.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2018_09.txt", 
       "type": "airspace",
       "area": "ua",
-      "update": "2018-09-01"
+      "update": "2018-10-12"
     },
     {
       "name": "UK_Airspace.txt",
@@ -241,10 +241,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.06-21.1.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.09-13.1.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2018-06-05"
+      "update": "2018-10-12"
     }
   ]
 }
