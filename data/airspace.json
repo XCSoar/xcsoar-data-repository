@@ -10,10 +10,10 @@
     },
     {
       "name": "Austria_Airspace.txt",
-      "uri": "https://www.austrocontrol.at/jart/prj3/austro_control/data/dokumente/aV5XF_AustriaAirspaceMainFileeffdate01052015-27052015V.1.00.txt",
+      "uri": "https://www.austrocontrol.at/jart/prj3/austro_control/data/dokumente/austria_acg_airspaces_2018-07-19_xcsoar_2018-08-24_1108106.txt",
       "type": "airspace",
       "area": "at",
-      "update": "2015-04-30"
+      "update": "2018-07-10"
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
