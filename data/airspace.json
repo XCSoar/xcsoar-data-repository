@@ -172,10 +172,10 @@
     },
     {
       "name": "New_Zealand_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NZ/NZ.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NZ/NIAirspace9Nov2017.txt",
       "type": "airspace",
       "area": "nz",
-      "update": "2007-11-27"
+      "update": "2017-09-11"
     },
     {
       "name": "Poland_Airspace.txt",
