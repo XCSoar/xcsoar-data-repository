@@ -10,10 +10,10 @@
     },
     {
       "name": "Austria_Airspace.txt",
-      "uri": "https://www.austrocontrol.at/jart/prj3/austro_control/data/dokumente/aV5XF_AustriaAirspaceMainFileeffdate01052015-27052015V.1.00.txt",
+      "uri": "https://www.austrocontrol.at/jart/prj3/austro_control/data/dokumente/austria_acg_airspaces_2018-07-19_xcsoar_2018-08-24_1108106.txt",
       "type": "airspace",
       "area": "at",
-      "update": "2015-04-30"
+      "update": "2018-07-10"
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
@@ -88,10 +88,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2018/Fachbereiche/Luftraum_und_Flugbetrieb/Airspace_Germany_week13_2018_V2_ohneFIS.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2018/Fachbereiche/Luftraum_und_Flugbetrieb/DAEC_Airspace_Germany_13Sept2018.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2018-03-29"
+      "update": "2018-09-13"
     },
     {
       "name": "Germany_Border.txt",
@@ -172,10 +172,10 @@
     },
     {
       "name": "New_Zealand_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NZ/NZ.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NZ/NIAirspace9Nov2017.txt",
       "type": "airspace",
       "area": "nz",
-      "update": "2007-11-27"
+      "update": "2017-09-11"
     },
     {
       "name": "Poland_Airspace.txt",
