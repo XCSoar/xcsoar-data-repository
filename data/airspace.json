@@ -34,7 +34,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/BR/2017_06_05_CBVL_BRASIL_TOTAL_R1.txt",
       "type": "airspace",
       "area": "br",
-      "update": "2016-12-09"
+      "update": "2017-10-04"
     },
     {
       "name": "Bulgaria_Airspace.txt",
@@ -206,10 +206,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201712.full.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201809.full.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2017-12-18"
+      "update": "2018-09-02"
     },
     {
       "name": "Sweden_Airspace.txt",
