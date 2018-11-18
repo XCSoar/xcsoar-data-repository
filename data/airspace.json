@@ -241,10 +241,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.09-13.1.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v18.11-08.4.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2018-10-12"
+      "update": "2018-11-18"
     }
   ]
 }
