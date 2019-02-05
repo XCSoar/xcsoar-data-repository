@@ -6,7 +6,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_18_11_08.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2019-00-05"
+      "update": "2018-11-08"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -91,7 +91,7 @@
       "uri": "https://www.daec.de/fileadmin/user_upload/files/2019/Fachbereiche/Luftraum_und_Flugbetrieb/20190131_DAEC_Airspace_Germany2019.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2019-02-05"
+      "update": "2019-01-31"
     },
     {
       "name": "Germany_Border.txt",
@@ -230,7 +230,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
-      "update": "2019-02-05"
+      "update": "2019-01-03"
     },
     {
       "name": "UK_Airspace.txt",
