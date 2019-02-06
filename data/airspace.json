@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_18_05_24.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_18_11_08.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2018-10-17"
+      "update": "2018-11-08"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -88,10 +88,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2018/Fachbereiche/Luftraum_und_Flugbetrieb/DAEC_Airspace_Germany_13Sept2018.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2019/Fachbereiche/Luftraum_und_Flugbetrieb/20190131_DAEC_Airspace_Germany2019.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2018-09-13"
+      "update": "2019-01-31"
     },
     {
       "name": "Germany_Border.txt",
@@ -227,10 +227,10 @@
     },
     {
       "name": "Ukraine_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2018_09.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
-      "update": "2018-10-12"
+      "update": "2019-01-03"
     },
     {
       "name": "UK_Airspace.txt",
