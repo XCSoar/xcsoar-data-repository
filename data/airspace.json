@@ -45,10 +45,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_265.air",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_273.air",
       "type": "airspace",
       "area": "ca",
-      "update": "2017-12-04"
+      "update": "2019-02-15"
     },
     {
       "name": "Czech_Airspace.txt",
