@@ -234,7 +234,7 @@
     },
     {
       "name": "UK_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/United_Kingdom_2017_03_30.txt",
+      "uri": "http://download.xcsoar.org/airspaces/UK_Airspace_2017_03_30.txt",
       "type": "airspace",
       "area": "uk",
       "update": "2019-02-28"
