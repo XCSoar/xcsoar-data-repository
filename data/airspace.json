@@ -234,10 +234,10 @@
     },
     {
       "name": "UK_Airspace.txt",
-      "uri": "http://www.nvgc.org.uk/UK2016.txt",
+      "uri": "http://download.xcsoar.org/airspaces/United_Kingdom_2017_03_30.txt",
       "type": "airspace",
       "area": "uk",
-      "update": "2016-02-02"
+      "update": "2019-02-28"
     },
     {
       "name": "USA_Airspace.txt",
