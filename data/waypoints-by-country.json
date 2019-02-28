@@ -521,10 +521,10 @@
     },
     {
       "name": "United Kingdom.cup",
-      "uri": "http://download.xcsoar.org/waypoints/United%20Kingdom.cup",
+      "uri": "http://download.xcsoar.org/waypoints/United_Kingdom.cup",
       "type": "waypoint",
       "area": "gb",
-      "update": "2015-11-17"
+      "update": "2019-02-28"
     },
     {
       "name": "United States.cup",
