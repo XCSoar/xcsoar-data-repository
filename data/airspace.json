@@ -6,7 +6,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_18_11_08.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2019-01-29"
+      "update": "2018-11-08"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -45,10 +45,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_265.air",
+      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_273.air",
       "type": "airspace",
       "area": "ca",
-      "update": "2017-12-04"
+      "update": "2019-02-15"
     },
     {
       "name": "Czech_Airspace.txt",
@@ -88,10 +88,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2018/Fachbereiche/Luftraum_und_Flugbetrieb/DAEC_Airspace_Germany_13Sept2018.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2019/Fachbereiche/Luftraum_und_Flugbetrieb/20190215_DAEC_Airspace_Germany2019.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2018-09-13"
+      "update": "2019-02-15"
     },
     {
       "name": "Germany_Border.txt",
@@ -230,14 +230,18 @@
       "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
+<<<<<<< HEAD
       "update": "2019-01-27"
+=======
+      "update": "2019-01-03"
+>>>>>>> 9cbb19c482927f5e5edad9222e1c0c35ea2b482d
     },
     {
       "name": "UK_Airspace.txt",
-      "uri": "http://www.nvgc.org.uk/UK2016.txt",
+      "uri": "http://download.xcsoar.org/airspaces/UK_Airspace_2019_02_28.txt",
       "type": "airspace",
       "area": "uk",
-      "update": "2016-02-02"
+      "update": "2019-02-28"
     },
     {
       "name": "USA_Airspace.txt",
