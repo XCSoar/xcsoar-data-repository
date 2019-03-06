@@ -58,7 +58,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Bosnia And Herzegovina.cup",
+      "name": "Bosnia_And_Herzegovina.cup",
       "uri": "http://download.xcsoar.org/waypoints/Bosnia_And_Herzegovina.cup",
       "type": "waypoint",
       "area": "ba",
@@ -121,7 +121,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Czech Republic.cup",
+      "name": "Czech_Republic.cup",
       "uri": "http://download.xcsoar.org/waypoints/Czech_Republic.cup",
       "type": "waypoint",
       "area": "cz",
@@ -135,7 +135,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Dominican Republic.cup",
+      "name": "Dominican_Republic.cup",
       "uri": "http://download.xcsoar.org/waypoints/Dominican_Republic.cup",
       "type": "waypoint",
       "area": "do",
@@ -254,7 +254,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Libyan Arab Jamabiriya.cup",
+      "name": "Libyan_Arab_Jamabiriya.cup",
       "uri": "http://download.xcsoar.org/waypoints/Libyan_Arab_Jamabiriya.cup",
       "type": "waypoint",
       "area": "ly",
@@ -422,7 +422,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Russian Federation.cup",
+      "name": "Russian_Federation.cup",
       "uri": "http://download.xcsoar.org/waypoints/Russian_Federation.cup",
       "type": "waypoint",
       "area": "ru",
@@ -464,7 +464,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Sri Lanka.cup",
+      "name": "Sri_Lanka.cup",
       "uri": "http://download.xcsoar.org/waypoints/Sri_Lanka.cup",
       "type": "waypoint",
       "area": "lk",
@@ -492,7 +492,7 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Syrian Arab Republic.cup",
+      "name": "Syrian_Arab_Republic.cup",
       "uri": "http://download.xcsoar.org/waypoints/Syrian_Arab_Republic.cup",
       "type": "waypoint",
       "area": "sy",
@@ -520,14 +520,14 @@
       "update": "2015-11-17"
     },
     {
-      "name": "United Kingdom.cup",
+      "name": "United_Kingdom.cup",
       "uri": "http://download.xcsoar.org/waypoints/United_Kingdom.cup",
       "type": "waypoint",
       "area": "gb",
       "update": "2019-02-28"
     },
     {
-      "name": "United States.cup",
+      "name": "United_States.cup",
       "uri": "http://download.xcsoar.org/waypoints/United_States.cup",
       "type": "waypoint",
       "area": "us",
