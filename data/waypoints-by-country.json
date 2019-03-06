@@ -59,7 +59,7 @@
     },
     {
       "name": "Bosnia And Herzegovina.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Bosnia%20And%20Herzegovina.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Bosnia_And_Herzegovina.cup",
       "type": "waypoint",
       "area": "ba",
       "update": "2015-11-17"
@@ -122,7 +122,7 @@
     },
     {
       "name": "Czech Republic.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Czech%20Republic.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Czech_Republic.cup",
       "type": "waypoint",
       "area": "cz",
       "update": "2015-11-17"
@@ -136,7 +136,7 @@
     },
     {
       "name": "Dominican Republic.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Dominican%20Republic.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Dominican_Republic.cup",
       "type": "waypoint",
       "area": "do",
       "update": "2015-11-17"
@@ -255,7 +255,7 @@
     },
     {
       "name": "Libyan Arab Jamabiriya.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Libyan%20Arab%20Jamabiriya.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Libyan_Arab_Jamabiriya.cup",
       "type": "waypoint",
       "area": "ly",
       "update": "2015-11-17"
@@ -367,7 +367,7 @@
     },
     {
       "name": "New Zealand.cup",
-      "uri": "http://download.xcsoar.org/waypoints/New%20Zealand.cup",
+      "uri": "http://download.xcsoar.org/waypoints/New_Zealand.cup",
       "type": "waypoint",
       "area": "nz",
       "update": "2015-11-17"
@@ -423,7 +423,7 @@
     },
     {
       "name": "Russian Federation.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Russian%20Federation.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Russian_Federation.cup",
       "type": "waypoint",
       "area": "ru",
       "update": "2015-11-17"
@@ -451,7 +451,7 @@
     },
     {
       "name": "South Africa.cup",
-      "uri": "http://download.xcsoar.org/waypoints/South%20Africa.cup",
+      "uri": "http://download.xcsoar.org/waypoints/South_Africa.cup",
       "type": "waypoint",
       "area": "za",
       "update": "2015-11-17"
@@ -465,7 +465,7 @@
     },
     {
       "name": "Sri Lanka.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Sri Lanka.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Sri_Lanka.cup",
       "type": "waypoint",
       "area": "lk",
       "update": "2015-11-17"
@@ -493,7 +493,7 @@
     },
     {
       "name": "Syrian Arab Republic.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Syrian%20Arab%20Republic.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Syrian_Arab_Republic.cup",
       "type": "waypoint",
       "area": "sy",
       "update": "2015-11-17"
@@ -521,14 +521,14 @@
     },
     {
       "name": "United Kingdom.cup",
-      "uri": "http://download.xcsoar.org/waypoints/United Kingdom.cup",
+      "uri": "http://download.xcsoar.org/waypoints/United_Kingdom.cup",
       "type": "waypoint",
       "area": "gb",
       "update": "2019-02-28"
     },
     {
       "name": "United States.cup",
-      "uri": "http://download.xcsoar.org/waypoints/United%20States.cup",
+      "uri": "http://download.xcsoar.org/waypoints/United_States.cup",
       "type": "waypoint",
       "area": "us",
       "update": "2015-11-17"
