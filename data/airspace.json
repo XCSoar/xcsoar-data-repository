@@ -230,7 +230,11 @@
       "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
+<<<<<<< HEAD
+      "update": "2019-01-27"
+=======
       "update": "2019-01-03"
+>>>>>>> 9cbb19c482927f5e5edad9222e1c0c35ea2b482d
     },
     {
       "name": "UK_Airspace.txt",
