@@ -165,7 +165,7 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "https://github.com/roeles/xcsoar-data-repository/raw/dutch-airspace-2019/data/EH1904.txt",
+      "uri": "http://download.xcsoar.org/airspaces/EH1904.txt",
       "type": "airspace",
       "area": "nl",
       "update": "2019-03-31"
