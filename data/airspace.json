@@ -165,10 +165,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NL/EHv18_3.txt",
+      "uri": "http://download.xcsoar.org/airspaces/EH1904.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2018-04-10"
+      "update": "2019-03-31"
     },
     {
       "name": "New_Zealand_Airspace.txt",
