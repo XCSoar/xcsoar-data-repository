@@ -52,10 +52,10 @@
     },
     {
       "name": "Czech_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CZ/CZ_combined_2017_03_30.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Czech_Airspace.txt",
       "type": "airspace",
       "area": "cz",
-      "update": "2017-05-07"
+      "update": "2019-02-28"
     },
  
     {
