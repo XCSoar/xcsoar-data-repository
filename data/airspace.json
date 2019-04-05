@@ -220,21 +220,17 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2018_05_14.txt", 
+      "uri": "http://download.xcsoar.org/airspaces/Switzerland_Airspace_2019_04_05.txt", 
       "type": "airspace",
       "area": "ch",
-      "update": "2018-05-14"
+      "update": "2019-04-05"
     },
     {
       "name": "Ukraine_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
-<<<<<<< HEAD
       "update": "2019-01-27"
-=======
-      "update": "2019-01-03"
->>>>>>> 9cbb19c482927f5e5edad9222e1c0c35ea2b482d
     },
     {
       "name": "UK_Airspace.txt",
