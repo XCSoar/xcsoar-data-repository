@@ -52,10 +52,10 @@
     },
     {
       "name": "Czech_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CZ/CZ_combined_2017_03_30.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Czech_Airspace.txt",
       "type": "airspace",
       "area": "cz",
-      "update": "2017-05-07"
+      "update": "2019-02-28"
     },
  
     {
@@ -165,10 +165,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NL/EHv18_3.txt",
+      "uri": "http://download.xcsoar.org/airspaces/EH1904.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2018-04-10"
+      "update": "2019-03-31"
     },
     {
       "name": "New_Zealand_Airspace.txt",
@@ -230,7 +230,7 @@
       "uri": "http://soaring.gahsys.com/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
       "type": "airspace",
       "area": "ua",
-      "update": "2019-01-27"
+      "update": "2019-01-03"
     },
     {
       "name": "UK_Airspace.txt",
