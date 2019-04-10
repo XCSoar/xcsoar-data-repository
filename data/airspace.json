@@ -192,10 +192,10 @@
     },
     {
       "name": "Slovakia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SK/LZBB140529.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Slovakia_Airspace.txt",
       "type": "airspace",
       "area": "sk",
-      "update": "2015-03-20"
+      "update": "2019-03-28"
     },
     {
       "name": "Slovenia_Airspace.txt",
