@@ -194,10 +194,10 @@
     },
     {
       "name": "Slovakia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SK/LZBB140529.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Slovakia_Airspace.txt",
       "type": "airspace",
       "area": "sk",
-      "update": "2015-03-20"
+      "update": "2019-03-28"
     },
     {
       "name": "Slovenia_Airspace.txt",
@@ -208,10 +208,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201809.full.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201903.full.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2018-09-02"
+      "update": "2019-03-25"
     },
     {
       "name": "Sweden_Airspace.txt",
@@ -222,10 +222,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2018_05_14.txt", 
+      "uri": "http://download.xcsoar.org/airspaces/Switzerland_Airspace_2019_04_05.txt", 
       "type": "airspace",
       "area": "ch",
-      "update": "2018-05-14"
+      "update": "2019-04-05"
     },
     {
       "name": "Ukraine_Airspace.txt",
