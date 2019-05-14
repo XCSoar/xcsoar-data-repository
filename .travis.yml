@@ -13,7 +13,7 @@ before_deploy:
 
 deploy:
   provider: script
-  skip_cleanup: truej
+  skip_cleanup: true
   script: ssh-keyscan -p ${DEPLOY_PORT} ${DEPLOY_HOST} > ~/.ssh/known_hosts && scp -P ${DEPLOY_PORT} $TRAVIS_BUILD_DIR/repository ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
   on:
     branch: master
