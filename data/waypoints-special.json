@@ -1,5 +1,12 @@
 {
   "title": "Waypoints-Special",
   "records": [
+    {
+      "name": "2019_Hotzenwald_V11.cup",
+      "uri": "http://www.soaringspot.com/en_gb/download-contest-file/2755-14354",
+      "type": "airspace",
+      "area": "de",
+      "update": "2019-05-16"
+    }
   ]
 }
