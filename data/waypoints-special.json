@@ -3,8 +3,8 @@
   "records": [
     {
       "name": "2019_Hotzenwald_V11.cup",
-      "uri": "http://www.soaringspot.com/en_gb/download-contest-file/2755-14354",
-      "type": "airspace",
+      "uri": "http://download.xcsoar.org/waypoint-special/2019_Hotenzwald_V11.cup",
+      "type": "waypoints",
       "area": "de",
       "update": "2019-05-16"
     }
