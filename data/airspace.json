@@ -215,10 +215,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SE/sverige-2018-cu-rev0.txt",
+      "uri": "http://www.flygsport.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-2019-cu-rev1.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2018-05-23"
+      "update": "2019-03-25"
     },
     {
       "name": "Switzerland_Airspace.txt",
