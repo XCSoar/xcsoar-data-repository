@@ -3,7 +3,7 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_19_05_23.txt",
+      "uri": "http://www.winpilot.com/UsersGuide/UserAirspace.asp",
       "type": "airspace",
       "area": "au",
       "update": "2019-05-23"
