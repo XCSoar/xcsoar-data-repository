@@ -173,11 +173,18 @@
       "update": "2019-05-13"
     },
     {
-      "name": "New_Zealand_Airspace.txt",
+      "name": "New_Zealand_Airspace_NI.txt",
       "uri": "http://soaring.gahsys.com/Airspace/NZ/NIAirspace9Nov2017.txt",
       "type": "airspace",
       "area": "nz",
       "update": "2017-09-11"
+    },
+    {
+      "name": "New_Zealand_Airspace_SI.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NZ/SI_Airspace_eff_7_Nov_19_v1_OpenAir.txt",
+      "type": "airspace",
+      "area": "nz",
+      "update": "2019-11-07"
     },
     {
       "name": "Poland_Airspace.txt",
