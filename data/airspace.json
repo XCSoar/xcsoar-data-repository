@@ -181,7 +181,7 @@
     },
     {
       "name": "New_Zealand_Airspace_SI.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NZ/SI_Airspace_eff_7_Nov_19_v1_OpenAir.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/NZ/SI_Airspace_eff_7_Nov_19_v1.txt",
       "type": "airspace",
       "area": "nz",
       "update": "2019-11-07"
