@@ -207,6 +207,13 @@
       "update": "2019-03-28"
     },
     {
+      "name": "SouthAfrica_Airspace.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ZA/SSSA-SA+Airspace-Effective+28FEB2019-Work+in+progress.txt",
+      "type": "airspace",
+      "area": "za",
+      "update": "2019-02-28"
+    },
+    {
       "name": "Slovenia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/SI/si_2016.04.txt",
       "type": "airspace",
