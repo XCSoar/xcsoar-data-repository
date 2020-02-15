@@ -250,7 +250,7 @@
     },
     {
       "name": "UK_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/UK_airspace.txt",
+      "uri": "http://download.xcsoar.org/airspaces/UK_Airspace.txt",
       "type": "airspace",
       "area": "uk",
       "update": "2020-01-28"
