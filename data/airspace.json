@@ -76,10 +76,10 @@
     },
     {
       "name": "Finland_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/FI/finland_airspace_20141103_openair.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/FI/finland_airspace_200228.txt",
       "type": "airspace",
       "area": "fi",
-      "update": "2014-12-01"
+      "update": "2020-02-28"
     },
     {
       "name": "France_Airspace.txt",
