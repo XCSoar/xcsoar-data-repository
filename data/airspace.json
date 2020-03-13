@@ -257,10 +257,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v19.05-23.4.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/NA/allusa.v20.02-27.2.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2019-05-23"
+      "update": "2020-02-27"
     }
   ]
 }
