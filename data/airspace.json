@@ -167,10 +167,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/EH1904A.txt",
+      "uri": "http://download.xcsoar.org/airspaces/EH2004.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2019-05-13"
+      "update": "2020-03-24"
     },
     {
       "name": "New_Zealand_Airspace_NI.txt",
