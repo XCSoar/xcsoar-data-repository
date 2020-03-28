@@ -83,7 +83,7 @@ A special value is 'daily' for files that should be updated daily.
 
 ## Installation on Debian 
 
-To run the test manually you require: [nodejs](https://nodejs.org)
+To run the test manually you require [nodejs](https://nodejs.org):
 ```bash
 apt-get install nodejs
 npm install
