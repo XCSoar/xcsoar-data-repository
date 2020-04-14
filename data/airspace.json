@@ -90,10 +90,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2019/Fachbereiche/Luftraum_und_Flugbetrieb/201921216_DAEC_Airspace_Germany2019.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2020/Fachbereiche/Luftraum_und_Flugbetrieb/20200326_Airspace_Germany.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2019-12-16"
+      "update": "2020-03-26"
     },
     {
       "name": "Germany_Border.txt",
