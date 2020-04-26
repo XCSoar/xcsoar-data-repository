@@ -90,10 +90,10 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2019/Fachbereiche/Luftraum_und_Flugbetrieb/201921216_DAEC_Airspace_Germany2019.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2020/Fachbereiche/Luftraum_und_Flugbetrieb/20200326_Airspace_Germany.txt",
       "type": "airspace",
       "area": "de",
-      "update": "2019-12-16"
+      "update": "2020-03-26"
     },
     {
       "name": "Germany_Border.txt",
@@ -167,10 +167,10 @@
     },
     {
       "name": "Netherlands_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/EH2004.txt",
+      "uri": "http://download.xcsoar.org/airspaces/EH2004a.txt",
       "type": "airspace",
       "area": "nl",
-      "update": "2020-03-24"
+      "update": "2020-03-30"
     },
     {
       "name": "New_Zealand_Airspace_NI.txt",
@@ -229,10 +229,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://www.flygsport.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-2019-cu-rev1.txt",
+      "uri": "https://www.flygsport.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-2020-cu-rev1.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2019-03-25"
+      "update": "2020-04-08"
     },
     {
       "name": "Switzerland_Airspace.txt",
