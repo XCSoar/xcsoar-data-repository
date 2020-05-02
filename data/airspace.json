@@ -18,17 +18,17 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEK_170325b.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEK_200408c.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2017-06-19"
+      "update": "2020-05-02"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEKEND_170325b.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEKEND_200408.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2017-06-19"
+      "update": "2020-03-22"
     },
     {
       "name": "Brazil_Airspace.txt",
@@ -58,7 +58,6 @@
       "area": "cz",
       "update": "2020-03-26"
     },
- 
     {
       "name": "Croatia_Airspace.txt",
       "uri": "http://soaring.gahsys.com/Airspace/HR/HRV-2012.txt",
@@ -89,7 +88,7 @@
     },
     {
       "name": "Germany_Airspace.txt",
-      "uri": "https://www.daec.de/fileadmin/user_upload/files/2020/Fachbereiche/Luftraum_und_Flugbetrieb/20200326_Airspace_Germany.txt",
+      "uri": "https://www.daec.de/fileadmin/user_upload/files/2020/Fachbereiche/Luftraum_und_Flugbetrieb/20200428_Airspace_Germany_DAeC.txt",
       "type": "airspace",
       "area": "de",
       "update": "2020-03-26"
@@ -235,10 +234,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/Switzerland_Airspace_2019_04_05.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2020_04_29.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2019-04-05"
+      "update": "2020-04-29"
     },
     {
       "name": "Ukraine_Airspace.txt",
