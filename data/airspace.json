@@ -235,10 +235,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "http://download.xcsoar.org/airspaces/Switzerland_Airspace_2019_04_05.txt", 
+      "uri": "http://soaring.gahsys.com/Airspace/CH/CH-Luftraum_2020_04_29.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2019-04-05"
+      "update": "2020-04-29"
     },
     {
       "name": "Ukraine_Airspace.txt",
