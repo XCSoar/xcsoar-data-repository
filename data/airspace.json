@@ -18,17 +18,17 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEK_170325b.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEK_200408c.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2017-06-19"
+      "update": "2020-05-02"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEKEND_170325b.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/BE/BELLUX_WEEKEND_200408.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2017-06-19"
+      "update": "2020-03-22"
     },
     {
       "name": "Brazil_Airspace.txt",
