@@ -227,10 +227,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "https://www.flygsport.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-2020-cu-rev1.txt",
+      "uri": "https://www.segelflyget.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-2020-cu-rev2.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2020-04-08"
+      "update": "2020-05-21"
     },
     {
       "name": "Switzerland_Airspace.txt",
