@@ -10,11 +10,11 @@
     },
     {
       "name": "Austria_Airspace.txt",
-      "uri": "https://www.austrocontrol.at/jart/prj3/ac/data/dokumente/austria_acg_airspaces_2020-03-26_xcsoar_2020-01-21_1101650.txt",
+      "uri": "https://www.austrocontrol.at/jart/prj3/ac/data/dokumente/austria_acg_airspaces_2020-05-21_xcsoar_2020-05-05_1105109.txt",
 
       "type": "airspace",
       "area": "at",
-      "update": "2020-03-26"
+      "update": "2020-05-21"
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
