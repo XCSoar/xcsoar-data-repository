@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_19_05_23.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_20_05_21.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2019-11-23"
+      "update": "2020-05-21"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -220,10 +220,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain201903.full.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/ES/SUASpain202004.full.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2019-03-25"
+      "update": "2020-04-01"
     },
     {
       "name": "Sweden_Airspace.txt",
