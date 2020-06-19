@@ -67,10 +67,10 @@
     },
     {
       "name": "Denmark_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/DK/DK-OpenAir-AllinOne-20200326.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/DK/DK-OpenAir-AllinOne-20200615.txt",
       "type": "airspace",
       "area": "dk",
-      "update": "2020-03-26"
+      "update": "2020-06-15"
     },
     {
       "name": "Finland_Airspace.txt",
