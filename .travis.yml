@@ -9,6 +9,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
 - ssh-add $TRAVIS_BUILD_DIR/xcsoar-data-repository_rsa
+- apt-get install -y npm nodejs
 - npm run convert
 
 deploy:
