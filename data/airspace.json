@@ -227,10 +227,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/SE/Sverige-2020-CU-rev3.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/SE/Sverige-2020-CU-rev6.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2020-06-18"
+      "update": "2020-09-10"
     },
     {
       "name": "Switzerland_Airspace.txt",
