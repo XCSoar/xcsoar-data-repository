@@ -24,7 +24,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm test
-    - run: npm convert
+    - run: npm run convert
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
       with:
