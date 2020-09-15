@@ -46,10 +46,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/NA/canadian_airspace_279.air",
+      "uri": "https://soaringtasks.com/wp-content/uploads/Canada_Airspace.txt",
       "type": "airspace",
       "area": "ca",
-      "update": "2020-04-26"
+      "update": "2020-09-13"
     },
     {
       "name": "Czech_Airspace.txt",
