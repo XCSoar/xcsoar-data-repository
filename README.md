@@ -1,6 +1,6 @@
 # XCSoar File Manager Data Repository
 
-[![Travis Build Status](https://img.shields.io/travis/XCSoar/xcsoar-data-repository/master.svg)](https://travis-ci.org/XCSoar/xcsoar-data-repository)
+![Test URLs with mocha](https://github.com/XCSoar/xcsoar-data-repository/workflows/Test%20URLs%20with%20mocha/badge.svg)
 
 This repository describes the data that the File Manager of
 [XCSoar](https://xcsoar.org/) is able to download. This data includes
@@ -85,7 +85,7 @@ A special value is 'daily' for files that should be updated daily.
 
 To run the test manually you require [nodejs](https://nodejs.org):
 ```bash
-apt-get install nodejs
+apt-get install nodejs npm
 npm install
 ```
 
