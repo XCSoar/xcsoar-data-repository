@@ -29,6 +29,6 @@ jobs:
       uses: shimataro/ssh-key-action@v2
       with:
         key: ${{ secrets.DEPLOY_KEY }}
-        known_hosts: 'ffooooooobar' 
+        known_hosts: 'ffoooooooobar' 
     - run: ssh-keyscan -p ${{ secrets.DEPLOY_PORT }} ${{ secrets.DEPLOY_HOST}} > ~/.ssh/known_hosts 
     - run: scp -P ${{ secrets.DEPLOY_PORT }} repository ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}
