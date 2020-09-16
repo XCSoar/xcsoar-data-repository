@@ -114,6 +114,13 @@
       "update": "2013-02-16"
     },
     {
+      "name": "CAN_ABRockies.xcm",
+      "uri": "https://bitbucket.org/cgough/xcsoar-files/downloads/CAN_ABRockies.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2020-09-15"
+    },
+    {
       "name": "CAN_ONTARIO_HighRes.xcm",
       "uri": "http://download.xcsoar.org/maps/CAN_ONTARIO_HighRes.xcm",
       "type": "map",
