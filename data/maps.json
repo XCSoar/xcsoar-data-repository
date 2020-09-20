@@ -135,6 +135,13 @@
       "update": "2013-02-16"
     },
     {
+      "name": "CAN_S_SK_MA_HighRes.xcm",
+      "uri": "https://bitbucket.org/cgough/xcsoar-files/downloads/CAN_S_SK_MA_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2020-09-20"
+    },
+    {
       "name": "CAN_SE_BC_HighRes.xcm",
       "uri": "http://download.xcsoar.org/maps/CAN_SE_BC_HighRes.xcm",
       "type": "map",
