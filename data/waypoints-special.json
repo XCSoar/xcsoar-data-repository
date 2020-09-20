@@ -17,17 +17,17 @@
     },
     {
       "name": "CAN_PG_A-M.cup",
-      "uri": "https://bitbucket.org/cgough/xcsoar-files/downloads/CAN_PG_A-M.cup",
+      "uri": "http://download.xcsoar.org/waypoints-special/CAN_PG_A-M.cup",
       "type": "waypoints",
       "area": "ca",
-      "update": "2020-09-15"
+      "update": "2020-09-20"
     },
     {
       "name": "CAN_PG_N-Z.cup",
-      "uri": "https://bitbucket.org/cgough/xcsoar-files/downloads/CAN_PG_N-Z.cup",
+      "uri": "http://download.xcsoar.org/waypoints-special/CAN_PG_N-Z.cup",
       "type": "waypoints",
       "area": "ca",
-      "update": "2020-09-15"
+      "update": "2020-09-20"
     }
   ]
 }
