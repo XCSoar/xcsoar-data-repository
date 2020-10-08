@@ -6,6 +6,8 @@ name: Test URls and Deploy
 on:
   push:
     branches: [ master ]
+  schedule:
+    - cron: '42 23 * * *'
 
 jobs:
   test_and_deploy:
