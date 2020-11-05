@@ -46,10 +46,10 @@
     },
     {
       "name": "Canada_Airspace.txt",
-      "uri": "https://soaringtasks.com/wp-content/uploads/Canada_Airspace.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Canada_Airspace.txt",
       "type": "airspace",
       "area": "ca",
-      "update": "2020-09-13"
+      "update": "2020-11-05"
     },
     {
       "name": "CAN_USborder.txt",
