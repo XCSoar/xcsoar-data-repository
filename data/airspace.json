@@ -123,10 +123,10 @@
     },
     {
       "name": "Hungary_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/HU/HungarySUA2017_openair.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/HU/HungarySUA2020_v7.txt",
       "type": "airspace",
       "area": "hu",
-      "update": "2017-09-14"
+      "update": "2021-01-21"
     },
     {
       "name": "Ireland_Airspace.txt",
