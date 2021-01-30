@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_20_05_21.txt",
+      "uri": "http://soaring.gahsys.com/Airspace/AU/australia_class_all_20_11_05.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2020-05-21"
+      "update": "2020-11-05"
     },
     {
       "name": "Austria_Airspace.txt",
