@@ -2,6 +2,7 @@ name: Test PR with mocha
 
 on:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   test-pr:
