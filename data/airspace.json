@@ -49,7 +49,7 @@
       "uri": "http://download.xcsoar.org/airspaces/Canada_Airspace.txt",
       "type": "airspace",
       "area": "ca",
-      "update": "2020-11-05"
+      "update": "2020-12-31"
     },
     {
       "name": "CAN_USborder.txt",
