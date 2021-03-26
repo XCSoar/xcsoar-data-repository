@@ -179,14 +179,14 @@
     },
     {
       "name": "New_Zealand_Airspace_NI.txt",
-      "uri": "https://soaring.geichhorn.com/Airspace/NZ/NZUpperNI2019Airspace.txt",
+      "uri": "http://gliding.co.nz/wp-content/uploads/files/NIAirspace9Nov2017.txt",
       "type": "airspace",
       "area": "nz",
       "update": "2019-11-07"
     },
     {
       "name": "New_Zealand_Airspace_SI.txt",
-      "uri": "https://soaring.geichhorn.com/Airspace/NZ/SI_Airspace_eff_7_Nov_19_v1_OpenAir.txt",
+      "uri": "http://gliding.co.nz/wp-content/uploads/files/SI%20Airspace%20eff%207%20Nov19%20OpenAir.txt",
       "type": "airspace",
       "area": "nz",
       "update": "2019-11-07"
