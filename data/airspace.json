@@ -88,10 +88,10 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "https://soaring.geichhorn.com/Airspace/FR/France_21-03-25.txt",
+      "uri": "https://soaring.geichhorn.com/Airspace/FR/France-21-04.txt",
       "type": "airspace",
       "area": "fr",
-      "update": "2021-03-25"
+      "update": "2021-04-22"
     },
     {
       "name": "Germany_Airspace.txt",
