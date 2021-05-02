@@ -34,21 +34,21 @@
       "uri": "http://download.xcsoar.org/waypoints-special/USA_PG_REG1-4.cup",
       "type": "waypoints",
       "area": "us",
-      "update": "2021-03-26"
+      "update": "2021-05-01"
     },
     {
       "name": "USA_PG_REG5-8.cup",
       "uri": "http://download.xcsoar.org/waypoints-special/USA_PG_REG5-8.cup",
       "type": "waypoints",
       "area": "us",
-      "update": "2021-03-26"
+      "update": "2021-05-01"
     },
     {
       "name": "USA_PG_REG9-12.cup",
       "uri": "http://download.xcsoar.org/waypoints-special/USA_PG_REG9-12.cup",
       "type": "waypoints",
       "area": "us",
-      "update": "2021-03-26"
+      "update": "2021-05-01"
     }
   ]
 }
