@@ -262,7 +262,7 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "http://soaring.guenther-eichhorn.com/Airspace/NA/allusa.v21.02-25.2.txt",
+      "uri": "https://soaring.guenther-eichhorn.com/Airspace/NA/allusa.v21.02-25.2.txt",
       "type": "airspace",
       "area": "us",
       "update": "2021-02-25"
