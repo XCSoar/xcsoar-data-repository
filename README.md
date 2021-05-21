@@ -7,18 +7,16 @@ This repository describes the data that the File Manager of
 terrain and topography maps, airspace, waypoint and other files like the FlarmNet
 database.
 
-
 ## Contributing
 
 Contributions here have to pass:
-  * A URL availability check
-  * A review by another contributer 
+* A URL availability check
+* A review by another contributer 
 
 If both checks pass, the resulting repository file is automatically generated and deployed to [http://download.xcsoar.org/repository](http://download.xcsoar.org/repository)
 
 If you feel that some important files are missing, please fork this repository
 and send a [pull request](https://github.com/XCSoar/xcsoar-data-repository/pulls).
-
 
 ### Datafiles
 
@@ -30,8 +28,7 @@ and send a [pull request](https://github.com/XCSoar/xcsoar-data-repository/pulls
 * [travel-by-glider.json](data/travel-by-glider.json) - Travel by glider waypoint details for cross country holidays
 * [waypoints-by-country.json](data/waypoints-by-country.json) - Waypoints, airfields etc. by country ([data maintained here](https://github.com/XCSoar/xcsoar-data-content/tree/master/waypoints))
 * [waypoints-special.json](data/waypoints-special.json) - Waypoints, outlanding fields, competitions
-
-
+  
 ### Structure of entry
 
 Example entry:
@@ -45,21 +42,18 @@ Example entry:
 },
 ```
 
-
 #### name
 
 This should be the file name on the XCSoar client side.
 Try to keep this consistent during updates.
 
-
 #### uri
 
 The URL of the location of the file to download.
 Please note:
- * Use HTTP URLs when possible as some platforms can't do SSL
- * The URL is checked before the resulting repository file is deployed
+* Use HTTP URLs when possible as some platforms can't do SSL
+* The URL is checked before the resulting repository file is deployed
  
-
 #### type
 
 File type of the referenced file:
@@ -69,17 +63,14 @@ File type of the referenced file:
 * airspace (Airspace in OpenAIR format)
 * flarmnet (Flarmnet or OGN database)
 
-
 #### area
 
 This is the [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country code, of the area the file is active in. 
-
 
 #### update
 
 Here we specify the date from which the data is valid.
 A special value is 'daily' for files that should be updated daily.
-
 
 ## Installation on Debian 
 
@@ -89,7 +80,6 @@ apt-get install nodejs npm
 npm install
 ```
 
-
 ## Usage
 
 ### URL tester:
@@ -98,7 +88,6 @@ To run the URL check manually:
 ```bash
 npm test
 ```
-
 
 ### Generate repository flat file
 
