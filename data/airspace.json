@@ -241,10 +241,10 @@
     },
     {
       "name": "Switzerland_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/CH/CH-Luftraum_2020_04_29.txt",
+      "uri": "http://download.xcsoar.org/airspaces/Switzerland_Airspace_2021-05-28.txt",
       "type": "airspace",
       "area": "ch",
-      "update": "2020-04-29"
+      "update": "2021-05-28"
     },
     {
       "name": "Ukraine_Airspace.txt",
