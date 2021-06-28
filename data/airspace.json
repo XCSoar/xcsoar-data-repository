@@ -18,17 +18,17 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_200408c.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2020-05-02"
+      "update": "2021-03-21"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEKEND_200408.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c.txt",
       "type": "airspace",
       "area": "be",
-      "update": "2020-03-22"
+      "update": "2021-03-21"
     },
     {
       "name": "Brazil_Airspace.txt",
@@ -74,10 +74,10 @@
     },
     {
       "name": "Denmark_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20200615.txt",
+      "uri": "https://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20210624.txt",
       "type": "airspace",
       "area": "dk",
-      "update": "2020-06-15"
+      "update": "2021-06-24"
     },
     {
       "name": "Finland_Airspace.txt",
@@ -227,10 +227,10 @@
     },
     {
       "name": "Spain_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/ES/SUASpain202004.full.txt",
+      "uri": "https://soaringweb.org/Airspace/ES/SUASpain202104.full.txt",
       "type": "airspace",
       "area": "es",
-      "update": "2020-04-01"
+      "update": "2021-05-03"
     },
     {
       "name": "Sweden_Airspace.txt",
@@ -262,10 +262,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/NA/allusa.v21.02-25.2.txt",
+      "uri": "https://soaringweb.org/Airspace/NA/allusa.v21.05-20.1.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2021-02-25"
+      "update": "2021-05-20"
     }
   ]
 }
