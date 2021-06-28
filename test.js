@@ -1,7 +1,6 @@
 var request = require("request");
 
 var repository = require("./");
-repository.sections.forEach(describeSection);
 
 function describeSection(section) {
     describe(section.title, function() {
@@ -24,3 +23,5 @@ function checkRecord(record) {
         });
     });
 }
+
+repository.sections.forEach(describeSection);
