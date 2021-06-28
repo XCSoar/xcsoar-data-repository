@@ -1,6 +1,6 @@
 # XCSoar File Manager Data Repository
 
-![Test URLs with mocha](https://github.com/XCSoar/xcsoar-data-repository/workflows/Test%20URLs%20with%20mocha/badge.svg)
+[![Test URls and Deploy](https://github.com/XCSoar/xcsoar-data-repository/actions/workflows/deploy.yml/badge.svg)](https://github.com/XCSoar/xcsoar-data-repository/actions/workflows/deploy.yml)
 
 This repository describes the data that the File Manager of
 [XCSoar](https://xcsoar.org/) is able to download. This data includes
@@ -82,7 +82,7 @@ npm install
 
 ## Usage
 
-### URL tester:
+### URL tester
 
 To run the URL check manually:
 ```bash
