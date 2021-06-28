@@ -1,13 +1,5 @@
 #!/usr/bin/env node
 
-var fs = require("fs");
-
-var repository = require("..");
-
-var stream = fs.createWriteStream("./repository");
-repository.sections.forEach(writeSection.bind(this, stream));
-stream.end();
-
 function writeSection(stream, section) {
     if (section.title) {
         stream.write("# " + section.title + "\n\n");
@@ -23,3 +15,11 @@ function writeRecord(stream, record) {
     }
     stream.write("\n");
 }
+
+var fs = require("fs");
+
+var repository = require("..");
+
+var stream = fs.createWriteStream("./repository");
+repository.sections.forEach(writeSection.bind(this, stream));
+stream.end();
