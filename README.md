@@ -1,5 +1,6 @@
 # XCSoar File Manager Data Repository
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d699796e8984182be062691b0dffef6)](https://app.codacy.com/gh/XCSoar/xcsoar-data-repository?utm_source=github.com&utm_medium=referral&utm_content=XCSoar/xcsoar-data-repository&utm_campaign=Badge_Grade_Settings)
 [![Test URls and Deploy](https://github.com/XCSoar/xcsoar-data-repository/actions/workflows/deploy.yml/badge.svg)](https://github.com/XCSoar/xcsoar-data-repository/actions/workflows/deploy.yml)
 
 This repository describes the data that the File Manager of
