@@ -130,10 +130,10 @@
     },
     {
       "name": "Ireland_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/EI/IrelandSua2018a.txt",
+      "uri": "https://soaringweb.org/Airspace/EI/IrelandSua2021.txt",
       "type": "airspace",
       "area": "ie",
-      "update": "2018-03-25"
+      "update": "2021-07-09"
     },
     {
       "name": "Israel_Airspace.txt",
