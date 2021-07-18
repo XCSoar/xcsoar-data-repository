@@ -2,7 +2,7 @@
   "title": "OGN DDB (flarmnet) ",
   "records": [{
     "name": "data.fln",
-    "uri": "http://ddb.glidernet.org/download/download-fln.php",
+    "uri": "https://www.flarmnet.org/static/files/wfn/data.fln",
     "type": "flarmnet",
     "update": "daily"
   }, {
