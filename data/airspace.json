@@ -248,10 +248,10 @@
     },
     {
       "name": "Ukraine_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/UA/AirspaceUkraine_2019_01_03.txt", 
+      "uri": "https://soaringweb.org/Airspace/UA/ukraine-gliding-airspace-2021.txt", 
       "type": "airspace",
       "area": "ua",
-      "update": "2019-01-03"
+      "update": "2021-07-15"
     },
     {
       "name": "UK_Airspace.txt",
