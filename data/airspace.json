@@ -262,10 +262,10 @@
     },
     {
       "name": "USA_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/NA/allusa.v21.05-20.1.txt",
+      "uri": "https://soaringweb.org/Airspace/NA/allusa.v21.08-12.5.txt",
       "type": "airspace",
       "area": "us",
-      "update": "2021-05-20"
+      "update": "2021-08-12"
     }
   ]
 }
