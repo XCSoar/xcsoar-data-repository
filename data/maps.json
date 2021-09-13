@@ -2,13 +2,6 @@
   "title": "Maps",
   "records": [
     {
-      "name": "AFR_NAMIBIA_CENTRAL_HighRes.xcm",
-      "uri": "http://download.xcsoar.org/maps/AFR_NAMIBIA_CENTRAL_HighRes.xcm",
-      "type": "map",
-      "area": "na",
-      "update": "2021-10-01"
-    },
-    {
       "name": "ALPS_HighRes.xcm",
       "uri": "http://download.xcsoar.org/maps/ALPS_HighRes.xcm",
       "type": "map",
@@ -289,6 +282,13 @@
       "update": "2021-10-01"
     },
     {
+      "name": "NAM_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/NAM_HighRes.xcm",
+      "type": "map",
+      "area": "na",
+      "update": "2021-10-01"
+    },
+    {
       "name": "NOR_N_HighRes.xcm",
       "uri": "http://download.xcsoar.org/maps/NOR_N_HighRes.xcm",
       "type": "map",
@@ -511,13 +511,6 @@
       "type": "map",
       "area": "za",
       "update": "2021-09-16"
-    },
-    {
-      "name": "AFR_NAMIBIA_CENTRAL.xcm",
-      "uri": "http://download.xcsoar.org/maps/AFR_NAMIBIA_CENTRAL.xcm",
-      "type": "map",
-      "area": "na",
-      "update": "2021-10-01"
     },
     {
       "name": "ALPS.xcm",
@@ -797,6 +790,13 @@
       "uri": "http://download.xcsoar.org/maps/MEX_CENTER.xcm",
       "type": "map",
       "area": "mx",
+      "update": "2021-10-01"
+    },
+    {
+      "name": "NAM.xcm",
+      "uri": "http://download.xcsoar.org/maps/NAM.xcm",
+      "type": "map",
+      "area": "na",
       "update": "2021-10-01"
     },
     {
