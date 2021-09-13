@@ -511,6 +511,13 @@
       "type": "map",
       "area": "us",
       "update": "2013-02-16"
+    },
+    {
+      "name": "ZA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/ZA_HighRes.xcm",
+      "type": "map",
+      "area": "za",
+      "update": "2021-09-16"
     }
   ]
 }
