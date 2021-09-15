@@ -2,13 +2,6 @@
   "title": "Maps",
   "records": [
     {
-      "name": "AFR_GARIEP_DAM_HighRes.xcm",
-      "uri": "http://download.xcsoar.org/maps/AFR_GARIEP_DAM_HighRes.xcm",
-      "type": "map",
-      "area": "za",
-      "update": "2013-02-16"
-    },
-    {
       "name": "AFR_NAMIBIA_CENTRAL_HighRes.xcm",
       "uri": "http://download.xcsoar.org/maps/AFR_NAMIBIA_CENTRAL_HighRes.xcm",
       "type": "map",
