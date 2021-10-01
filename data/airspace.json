@@ -18,14 +18,14 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c1.txt",
       "type": "airspace",
       "area": "be",
       "update": "2021-03-21"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEKEND_2021-03-21b.txt",
       "type": "airspace",
       "area": "be",
       "update": "2021-03-21"
