@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/AU/australia_class_all_20_11_05.txt",
+      "uri": "https://soaringweb.org/Airspace/AU/australia_class_all_21_06_17.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2020-11-05"
+      "update": "2021-06-17"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -74,10 +74,10 @@
     },
     {
       "name": "Denmark_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20210624.txt",
+      "uri": "https://soaringweb.org/Airspace/DK/DK-OpenAir-AllinOne-20210813.txt",
       "type": "airspace",
       "area": "dk",
-      "update": "2021-06-24"
+      "update": "2021-08-13"
     },
     {
       "name": "Finland_Airspace.txt",
