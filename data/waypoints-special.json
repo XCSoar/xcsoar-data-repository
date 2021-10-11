@@ -49,6 +49,13 @@
       "type": "waypoints",
       "area": "us",
       "update": "2021-05-01"
+    },
+    {
+      "name": "ZA_Cape_20211007.cup",
+      "uri": "http://download.xcsoar.org/waypoints-special/ZA_Cape_20211007.cup",
+      "type": "waypoints",
+      "area": "za",
+      "update": "2021-10-08"
     }
   ]
 }
