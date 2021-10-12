@@ -254,11 +254,11 @@
       "update": "2015-11-17"
     },
     {
-      "name": "Libyan_Arab_Jamabiriya.cup",
-      "uri": "http://download.xcsoar.org/waypoints/Libyan_Arab_Jamabiriya.cup",
+      "name": "Libya.cup",
+      "uri": "http://download.xcsoar.org/waypoints/Libya.cup",
       "type": "waypoint",
       "area": "ly",
-      "update": "2015-11-17"
+      "update": "2021-10-12"
     },
     {
       "name": "Liechtenstein.cup",
@@ -341,8 +341,8 @@
       "name": "Mozambique.cup",
       "uri": "http://download.xcsoar.org/waypoints/Mozambique.cup",
       "type": "waypoint",
-      "area": "mq",
-      "update": "2015-11-17"
+      "area": "mz",
+      "update": "2021-10-12"
     },
     {
       "name": "Myanmar.cup",
@@ -366,11 +366,11 @@
       "update": "2015-11-17"
     },
     {
-      "name": "New Zealand.cup",
+      "name": "New_Zealand.cup",
       "uri": "http://download.xcsoar.org/waypoints/New_Zealand.cup",
       "type": "waypoint",
       "area": "nz",
-      "update": "2015-11-17"
+      "update": "2021-10-12"
     },
     {
       "name": "Niger.cup",
@@ -474,15 +474,15 @@
       "name": "Sudan.cup",
       "uri": "http://download.xcsoar.org/waypoints/Sudan.cup",
       "type": "waypoint",
-      "area": "su",
-      "update": "2015-11-17"
+      "area": "sd",
+      "update": "2021-10-12"
     },
     {
       "name": "Sweden.cup",
       "uri": "http://download.xcsoar.org/waypoints/Sweden.cup",
       "type": "waypoint",
-      "area": "sw",
-      "update": "2015-11-17"
+      "area": "se",
+      "update": "2021-10-12"
     },
     {
       "name": "Switzerland.cup",
