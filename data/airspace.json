@@ -88,7 +88,7 @@
     },
     {
       "name": "France_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/FR/France-21-05.txt",
+      "uri": "http://bobcrn.free.fr/France_21-5new.txt",
       "type": "airspace",
       "area": "fr",
       "update": "2021-05-20"
