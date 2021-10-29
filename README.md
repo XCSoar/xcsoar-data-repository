@@ -115,3 +115,14 @@ To generate the repository flat file used by XCSoar, use the following command:
 ```bash
 npm run convert
 ```
+
+## Maintenance
+
+### nodejs packages
+
+To update the nodejs dependencies periodically
+
+```bash
+npm audit
+npm audit fix
+```
