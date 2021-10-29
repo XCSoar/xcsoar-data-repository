@@ -114,11 +114,18 @@
       "update": "2021-10-01"
     },
     {
-      "name": "CAN_SE_BC_HighRes.xcm",
-      "uri": "http://download.xcsoar.org/maps/CAN_SE_BC_HighRes.xcm",
+      "name": "CAN_S_SK_MA_HighRes.xcm",
+      "uri": "https://github.com/ventus99/XCSoarFiles/raw/main/CAN_S_SK_MA_HighRes.xcm",
       "type": "map",
       "area": "ca",
-      "update": "2021-10-01"
+      "update": "2021-05-04"
+    },
+    {
+      "name": "CAN_SE_BC_AB_HighRes.xcm",
+      "uri": "https://github.com/ventus99/XCSoarFiles/raw/main/CAN_SE_BC_AB_HighRes.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2021-05-04"
     },
     {
       "name": "CAN_SE_ONTARIO_HighRes.xcm",
