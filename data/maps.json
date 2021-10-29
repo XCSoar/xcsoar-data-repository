@@ -115,14 +115,14 @@
     },
     {
       "name": "CAN_S_SK_MA_HighRes.xcm",
-      "uri": "https://github.com/ventus99/XCSoarFiles/raw/main/CAN_S_SK_MA_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_S_SK_MA_HighRes.xcm",
       "type": "map",
       "area": "ca",
       "update": "2021-05-04"
     },
     {
       "name": "CAN_SE_BC_AB_HighRes.xcm",
-      "uri": "https://github.com/ventus99/XCSoarFiles/raw/main/CAN_SE_BC_AB_HighRes.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_SE_BC_AB_HighRes.xcm",
       "type": "map",
       "area": "ca",
       "update": "2021-05-04"
@@ -632,11 +632,18 @@
       "update": "2021-10-01"
     },
     {
-      "name": "CAN_SE_BC.xcm",
-      "uri": "http://download.xcsoar.org/maps/CAN_SE_BC.xcm",
+      "name": "CAN_S_SK_MA.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_S_SK_MA.xcm",
       "type": "map",
       "area": "ca",
-      "update": "2021-10-01"
+      "update": "2021-05-04"
+    },
+    {
+      "name": "CAN_SE_BC_AB.xcm",
+      "uri": "http://download.xcsoar.org/maps/CAN_SE_BC_AB.xcm",
+      "type": "map",
+      "area": "ca",
+      "update": "2021-05-04"
     },
     {
       "name": "CAN_SE_ONTARIO.xcm",
