@@ -7,6 +7,20 @@
       "type": "airspace",
       "area": "de",
       "update": "2017-05-16"
+    },
+    {
+      "name": "Czech Wave Airspace",
+      "uri": "http://download.xcsoar.org/airspaces/cz_wave_areas.txt",
+      "type": "airspace",
+      "area": "cz",
+      "update": "2021-10-16"
+    },
+    {
+      "name": "Polish Wave Airspace",
+      "uri": "http://download.xcsoar.org/airspaces/Polish_wave_areas.txt",
+      "type": "airspace",
+      "area": "pl",
+      "update": "2021-11-01"
     }
   ]
 }
