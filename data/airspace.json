@@ -234,10 +234,10 @@
     },
     {
       "name": "Sweden_Airspace.txt",
-      "uri": "https://www.segelflyget.se/globalassets/svenska-segelflygforbundet/luftrum/sverige-luftrum-2021-rev1.txt",
+      "uri": "https://soaringweb.org/Airspace/SE/Sweden-Airspace-2021-December-02.txt",
       "type": "airspace",
       "area": "se",
-      "update": "2021-06-17"
+      "update": "2021-12-02"
     },
     {
       "name": "Switzerland_Airspace.txt",
