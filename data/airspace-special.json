@@ -21,6 +21,13 @@
       "type": "airspace",
       "area": "pl",
       "update": "2021-11-01"
+    },
+    {
+      "name": "Australia HG/PG SiteGuide",
+      "uri": "https://siteguide.org.au/siteGuide.OpenAir.txt",
+      "type": "airspace",
+      "area": "au",
+      "update": "daily"
     }
   ]
 }
