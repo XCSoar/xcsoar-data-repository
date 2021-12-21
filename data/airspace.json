@@ -3,10 +3,10 @@
   "records": [
     {
       "name": "Australia_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/AU/australia_class_all_21_06_17.txt",
+      "uri": "https://soaringweb.org/Airspace/AU/australia_class_all_21_12_02.txt",
       "type": "airspace",
       "area": "au",
-      "update": "2021-06-17"
+      "update": "2021-12-02"
     },
     {
       "name": "Austria_Airspace.txt",
@@ -18,14 +18,14 @@
     },
     {
       "name": "BelgiumLux_Airspace_Week.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c1.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEK_2021-03-21c1_bis.txt",
       "type": "airspace",
       "area": "be",
       "update": "2021-03-21"
     },
     {
       "name": "BelgiumLux_Airspace_Weekend.txt",
-      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEKEND_2021-03-21b.txt",
+      "uri": "https://soaringweb.org/Airspace/BE/BELLUX_WEEKEND_2021-03-21b_bis.txt",
       "type": "airspace",
       "area": "be",
       "update": "2021-03-21"
@@ -145,14 +145,14 @@
     {
       "name": "Italy_Airspace.txt",
       "uri": "https://soaringweb.org/Airspace/IT/Italia_May2018.txt",
-      "type": "airspace", 
+      "type": "airspace",
       "area": "it",
       "update": "2018-05-23"
     },
     {
       "name": "Japan_Airspace.txt",
       "uri": "https://soaringweb.org/Airspace/JP/JapanAS190330.txt",
-      "type": "airspace", 
+      "type": "airspace",
       "area": "jp",
       "update": "2019-04-10"
     },
@@ -248,7 +248,7 @@
     },
     {
       "name": "Ukraine_Airspace.txt",
-      "uri": "https://soaringweb.org/Airspace/UA/ukraine-gliding-airspace-2021.txt", 
+      "uri": "https://soaringweb.org/Airspace/UA/ukraine-gliding-airspace-2021.txt",
       "type": "airspace",
       "area": "ua",
       "update": "2021-07-15"
